@@ -1,10 +1,10 @@
 ---
 author: Lisa
 description: Going to Saint Ives
-image: vm.jpg
+image: ives.jpg
 tags:
 - emoji
-title: Pi with the vitruvian man
+title: Going to St. Ives with exponents
 ---
 
 ## Introduction

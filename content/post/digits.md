@@ -1,7 +1,7 @@
 ---
 author: Lisa
 description: Pi with the Vitruvian Man
-image: vm.jpg
+image: digits-thumbnail.png
 tags:
 - emoji
 title: Painting by the Digit
