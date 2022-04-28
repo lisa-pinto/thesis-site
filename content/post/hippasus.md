@@ -1,10 +1,10 @@
 ---
 author: Lisa
 description: Pi with the Vitruvian Man
-image: digits-thumbnail.png
+image: psun.jpg
 tags:
 - emoji
-title: Painting by the Digit
+title: Irrational Numbers and the Death of Hippasus
 ---
 
 ## Introduction
