@@ -9,4 +9,12 @@ title: Going to St. Ives with exponents
 
 ## Introduction
 
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
+A Classic English poem reads:
+
+"As I went to St Ives
+I met Nine Wives
+And every Wife had nine Sacs,
+And every Sac had nine Cats
+And every Cat had nine Kittens"
+
+Each of the 
