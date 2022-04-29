@@ -1,6 +1,7 @@
 ---
 author: Lisa
 description: Going to Saint Ives
+date: 
 image: ives.jpg
 tags:
 - emoji
@@ -17,4 +18,6 @@ And every Wife had nine Sacs,
 And every Sac had nine Cats
 And every Cat had nine Kittens"
 
-Each of the 
+Each a each level you multiply the exponents by the number nine
+
+There are many ways that you can combine the exponents.

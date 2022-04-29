@@ -1,12 +1,19 @@
 ---
 author: Lisa
 description: Pi with the Vitruvian Man
+date: 
 image: digits-thumbnail.png
 tags:
 - emoji
 title: Painting by the Digit
 ---
 
-## Introduction
+## The Never-Ending Decimal
 
-This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I'll explain how Hugo uses templates and how you can organize your templates to create a theme. I won't cover using CSS to style your theme.
+(Something about the )
+
+## Rational and Irrational Patterns
+
+What makes numbers rational
+
+## Generate a Painting from Digits
