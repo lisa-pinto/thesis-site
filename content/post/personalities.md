@@ -1,10 +1,11 @@
 ---
 author: Lisa
 description: Pi with the Vitruvian Man
-image: digits-thumbnail.png
+date: 
+image: allnums.png 
 tags:
 - emoji
-title: Painting by the Digit
+title: Numbers and their Personalities
 ---
 
 ## Introduction
