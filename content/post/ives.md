@@ -21,3 +21,9 @@ And every Cat had nine Kittens"
 Each a each level you multiply the exponents by the number nine
 
 There are many ways that you can combine the exponents.
+
+At each level you multiply the exponents by the number nine
+There were nine wives   9 = 9^1 wives
+Each wife had nine sacks  9^1 wives x 9^1 sacks = 9^(1+1) = 9^2 sacks
+Each sack had nine cats  9^2 sacks x 9^1 cats = 9^(2+1) = 9^3 cats
+Each cat had nine kittens  9^3 cats x 9^1 kittens = 9^(3+1) = 9^4 kittens
