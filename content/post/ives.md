@@ -2,7 +2,7 @@
 author: Lisa
 description: Going to Saint Ives
 date: 
-image: ives.jpg
+image: ives.jpeg
 tags:
 - emoji
 title: Going to St. Ives with exponents

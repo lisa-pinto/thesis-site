@@ -10,8 +10,9 @@ title: Mondrian and Dividing Squares
 
 ## Introduction
 
-Pi is a magical number. It is the 
+HCF is the smallest square that can tile the rectangle completely
+# What is the Smallest Square that fits the 
 
-# What is Pi?
+![This is Fun](/tiles/none.png "Untiled square")
 
 (Keep the sketch here)
