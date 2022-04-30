@@ -8,8 +8,9 @@ tags:
 title: Numbers and their Personalities
 ---
 
-## Introduction
+## Numbers
 
-The Greeks Believed
+The Greeks Developed four Liberal arts of Numbers - Astronomy, Geometry, Arithmetic and Harmony (Music). Numbers has magical properties that transcended their real-life applications.
+ (Insert Quadrivium pictures here)
 
 ## 

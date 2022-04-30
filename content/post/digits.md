@@ -10,10 +10,12 @@ title: Painting by the Digit
 
 ## The Never-Ending Decimal
 
-(Something about the )
+(Introduce the Long Division of Decimals)
 
 ## Rational and Irrational Patterns
 
-What makes numbers rational
+What makes numbers rational?
 
 ## Generate a Painting from Digits
+
+(Insert iframe over here)
