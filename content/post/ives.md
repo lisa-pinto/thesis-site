@@ -5,7 +5,7 @@ date:
 image: ives.jpeg
 tags:
 - emoji
-title: Going to St. Ives with exponents
+title: Travelling with Exponents
 ---
 
 ## Introduction

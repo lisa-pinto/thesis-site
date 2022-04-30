@@ -5,7 +5,7 @@ date:
 image: digits-thumbnail.png
 tags:
 - emoji
-title: Painting by the Digit
+title: Painting with Decimals
 ---
 
 ## The Never-Ending Decimal
