@@ -4,7 +4,7 @@ theme: newsroom
 author: Weru
 copyright: Copyright © 2019, Weru and the Hugo Authors; all rights reserved.
 canonifyurls: yes
-paginate: 6
+paginate: 100
 markup:
   goldmark:
     renderer:

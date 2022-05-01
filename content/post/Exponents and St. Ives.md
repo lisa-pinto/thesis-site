@@ -1,7 +1,7 @@
 ---
 author: Lisa
 description: Going to Saint Ives
-date: 
+date: "2020-03-05"
 image: ives.jpeg
 tags:
 - emoji
@@ -27,3 +27,11 @@ There were nine wives   9 = 9^1 wives
 Each wife had nine sacks  9^1 wives x 9^1 sacks = 9^(1+1) = 9^2 sacks
 Each sack had nine cats  9^2 sacks x 9^1 cats = 9^(2+1) = 9^3 cats
 Each cat had nine kittens  9^3 cats x 9^1 kittens = 9^(3+1) = 9^4 kittens
+
+
+{{< rawhtml >}}
+<iframe 
+        src="https://editor.p5js.org/lisa-pinto/full/FteFLPTUg"
+        style="border-style: none;width: 800px; height: 550px;align:center;" >
+</iframe>
+{{< /rawhtml >}}

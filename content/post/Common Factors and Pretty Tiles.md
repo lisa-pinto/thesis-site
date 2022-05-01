@@ -13,8 +13,14 @@ title: Common Factors and pretty tiles
 HCF is the smallest square that can tile the rectangle completely
 ## What is the Smallest Square that fits the Rectangular space 2
 
-![Try 2](static\images\screenshot-dark.png "Untiled square")
+![Try 2](/images/allnums.png "Untiled square")
+
 
 (Keep the sketch here)
 
-<iframe src="https://editor.p5js.org/lisa-pinto/full/7Ge_aRVU_"></iframe>
+{{< rawhtml >}}
+<iframe 
+        src="https://editor.p5js.org/lisa-pinto/full/7Ge_aRVU_"
+        style="border-style: none;width: 800px; height: 550px;align:center; allowfullscreen" >
+</iframe>
+{{< /rawhtml >}}

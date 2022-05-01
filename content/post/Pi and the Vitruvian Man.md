@@ -1,7 +1,7 @@
 ---
 author: Lisa
 description: Pi with the Vitruvian Man
-date: 
+date: "2020-03-05"
 image: vm.jpg
 tags:
 - emoji
@@ -14,4 +14,9 @@ Pi is a magical number. It is the
 
 # What is Pi?
 
-(Keep the sketch here)
+{{< rawhtml >}}
+<iframe 
+        src="https://editor.p5js.org/lisa-pinto/full/lFceus3wt"
+        style="border-style: none;width: 800px; height: 550px;align:center;" >
+</iframe>
+{{< /rawhtml >}}
