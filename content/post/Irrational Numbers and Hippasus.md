@@ -5,7 +5,7 @@ image: psun.jpg
 date:   
 tags:
 - emoji
-title: Irrational Numbers and the Death of Hippasus
+title: Irrational Numbers and the Legend of Hippasus
 ---
 
 ## Introduction
