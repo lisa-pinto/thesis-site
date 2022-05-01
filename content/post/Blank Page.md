@@ -1,7 +1,7 @@
 ---
 author: Lisa
 description: Pi with the Vitruvian Man
-date: 
+date: "2019-03-05"
 image: 
 tags:
 - emoji

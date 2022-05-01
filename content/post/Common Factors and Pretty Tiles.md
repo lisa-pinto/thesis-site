@@ -1,7 +1,7 @@
 ---
 author: Lisa
 description: Pi with the Vitruvian Man
-date: 
+date: "2020-03-05"
 image: mondrian.jpg
 tags:
 - emoji
@@ -16,3 +16,5 @@ HCF is the smallest square that can tile the rectangle completely
 ![Try 2](content\images\tiles\none.png "Untiled square")
 
 (Keep the sketch here)
+
+<iframe src="https://editor.p5js.org/lisa-pinto/full/7Ge_aRVU_"></iframe>
