@@ -5,7 +5,8 @@ date: "2020-03-05"
 image: soupcans.webp
 tags:
 - emoji
-title: Warhol and Variables
+title: Soup Cans and Variables
+math: true
 ---
 
 ## Introduction

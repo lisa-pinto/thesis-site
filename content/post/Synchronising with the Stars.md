@@ -1,11 +1,11 @@
 ---
 author: Lisa
 description: Pi with the Vitruvian Man
-date: 
-image: 
+date: "2020-03-05"
+image: romeo.jpg
 tags:
 - emoji
-title: Synchronising with the Stars
+title: Forbidden Love and Common Multiples
 ---
 
 ## Introduction

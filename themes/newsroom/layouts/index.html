@@ -9,6 +9,7 @@
       {{ $scratch.Set "image" .Params.image }}
     {{ else }}
       {{ $scratch.Set "image" "thumbnail.svg" }}
+      
     {{ end }}
     {{ $image := $scratch.Get "image" }}
     {{ $bg := (absURL (printf "images/%s" $image)) }}
