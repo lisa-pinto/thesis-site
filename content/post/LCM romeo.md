@@ -12,10 +12,21 @@ math: true
 ## What are Factors and Multiples
 
 ### A factor is simply a number that fits into another
+{{< rawhtml >}}
+<div class="center">
+<img src="/images/2factors.png" style="width:400px;">
+</div>
+{{< /rawhtml >}}
 
 In the above images, you can see that 2, 3 and 6, all fit into the number 6
 
-### A Multiple, is a number that 
+### A Multiple, is a number that can be produced by multiplying a number.
+{{< rawhtml >}}
+<div class="center">
+<img src="/images/multiples.png" style="width:400px;">
+</div>
+{{< /rawhtml >}}
+
 In the above image, you can see that 2, 4, 6 and 8 are all multiples of 2
 ## Prime factors
 

@@ -15,7 +15,7 @@ Imagine two paintings
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
 <div class="twocolumn">
-<img src="/images/pattern.jpg" style="width:400px;">
+<img src="/images/pattern.webp" style="width:400px;">
 </div>
 <div class="twocolumn">
 <img src="/images/no-pattern.jpg" style="width:400px;">
