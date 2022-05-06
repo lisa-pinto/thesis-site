@@ -1,8 +1,8 @@
 - item: About
   url: about/
-- item: Blog
+- item: Museum
   url: ""
-- item: Category
-  url: categories
-- item: Tag
-  url: tags
+# - item: Category
+#   url: categories
+# - item: Tag
+#   url: tags

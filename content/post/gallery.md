@@ -2,10 +2,11 @@
 author: Lisa
 description: Pi with the Vitruvian Man
 image: psun.jpg
-date: "2020-03-05"
+date: "2022-04-23"
 tags:
 - emoji
-title: Irrational Numbers and the Legend of Hippasus
+title: Gallery of Mathematical Curiosities
+math: true
 ---
 
 ## Introduction
