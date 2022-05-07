@@ -1,6 +1,6 @@
 ---
 author: Lisa
-description: Pi with the Vitruvian Man
+description: Forbidden Love and Common Multiples
 date: "2022-04-25"
 image: romeo.jpg
 tags:
@@ -58,3 +58,7 @@ Let’s look at how this works visually
 
 Summary 
 • The LCM of two numbers is the minimum amount that fits both of them.
+
+
+
+Image credit: Romeo and Juliet. c, 1890 , Konstantin Makovsky

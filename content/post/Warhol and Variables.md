@@ -1,6 +1,6 @@
 ---
 author: Lisa
-description: Pi with the Vitruvian Man
+description: Soup Cans and Variables
 date: "2022-04-29"
 image: allcans.jpg
 tags:

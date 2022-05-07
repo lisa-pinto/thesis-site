@@ -1,6 +1,6 @@
 ---
 author: Lisa
-description: Going to Saint Ives
+description: Travelling with Exponents
 date: "2022-04-26"
 image: ives.jpeg
 tags:
@@ -49,3 +49,5 @@ Each cat had nine kittens $\longrightarrow  9^3$ cats x $9^1$  = $9^{3+1} = 9^4$
 Summary
 • An exponent shows how many times a number has been multiplied
 • Every time you multiply the number again, the exponent increases by 1
+
+Image credits: Unknown

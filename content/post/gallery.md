@@ -1,6 +1,6 @@
 ---
 author: Lisa
-description: Pi with the Vitruvian Man
+description: Gallery of Mathematical Curiosities
 image: psun.jpg
 date: "2022-04-23"
 tags:

@@ -1,6 +1,6 @@
 ---
 author: Lisa
-description: Pi with the Vitruvian Man
+description: Common Factors and pretty tiles
 date: "2022-04-24"
 image: tiles.webp
 tags:

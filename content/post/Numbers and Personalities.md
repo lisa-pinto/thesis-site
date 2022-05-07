@@ -1,6 +1,6 @@
 ---
 author: Lisa
-description: Pi with the Vitruvian Man
+description: Numbers and their Personalities
 date: "2022-04-30"
 image: allnums.png 
 tags:
@@ -8,6 +8,9 @@ tags:
 title: Numbers and their Personalities - A Primer
 math: true
 ---
+
+# The Quadrivium
+c. Ancient Greece
 
 ## Numbers
 
@@ -23,3 +26,5 @@ The Greeks Developed four Liberal arts of Numbers - Astronomy, Geometry, Arithme
 </iframe>
 </div>
 {{< /rawhtml >}}
+
+Image credit: "Quadrivium", Sutton, Martineau, Lundy, Ashton. Published 2010.
