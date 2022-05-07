@@ -4,7 +4,7 @@ author: "Lisa"
 date: '2022-04-28'
 image: no-pattern.jpg
 tags: emoji
-description: Pi with the Vitruvian Man
+description: PPainting with Decimals
 math: yes
 ---
 
@@ -27,31 +27,41 @@ Imagine two paintings
 </div>
 {{< /rawhtml >}}
 
-The one on the left has a repeating pattern and is therefore predictable
+The one on the left has a repeating pattern and is therefore predictable  
 The one on the right has no consistent repetition wich means it is unpredictable
 
-Terminating decimals is when you have a fractions whose expansion is simple  
-## How is this Relevant to Decimal expansions? 
-e.g – $\frac{1}{2} = 0.50000$     or   $\frac{12}{50} = 0.240000$  
+ 
+## What does this have to do with Decimals? 
+Some decimals are easy to write, because they only have a few numbers after the point.  
+e.g – $\frac{1}{2} = 0.5$     or   $\frac{12}{50} = 0.24$  
    
-Sometime it gets harder and the extension never ends  
-e.g.  $\frac{1}{3} = 3.33333… or 3.\overline{3}$  or $\frac{87}{37}= 0.243243…  or 0.\overline{243}$
-  
-These are represented by a line over them. 
-## What is Irrational?
-•	Decimals cannot be found through long division.
-•	These don’t have fractions, but to put it simply, can only be described using words and equations
+Sometime it gets harder and the extension never ends, and the numbers keep repeating.    
+e.g.  $\frac{1}{3} = 3.33333…$  or $\frac{87}{37}= 0.243243234…$  
 
-Table of irrational numbers
+These can also be written using a line over the digits that keep repeating.  
+e.g.  $\frac{1}{3} = 3.\overline{3}$  or $\frac{87}{37}= 0.\overline{243}$  
 
-|  Constant | What is it visually | How to write it in numbers |
+All of these decimals that end or keep on going with a pattern are rational decimals.
+But what if the Digits did not repeat?
+## Irrational numbers.
+All irrational numbers have two common properties.
+•	They cannot be represented using a fraction.
+•	They do not have a pattern in their decimal expansions.
+
+Here are some irrational numbers.
+
+|  Symbol | What is it? | How to write it in numbers |
 |:---------:|:-----------:|:----------------:|
-| $\pi$      |  | 3.141... |
-| $\sqrt{2}$ | xyz         | 1.141           |
-|  $\phi$        | xyz          |   1.1618    |
-| e   |   xyz |  1.141...  |
+| $\pi$      | The ratio of a circle's circumference to  its diameter | 3.141... |
+| $\sqrt{2}$ | The diagonal of a square whose side is 1         | 1.141           |
+|  $\phi$  (The golden ratio)      | $1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \ddots}}}}$          |   1.1618    |
+| e   |   $1 + \frac{1}{1} + \frac{1}{1\cdot 2} + \frac{1}{1\cdot 2\cdot 3} + \cdots.$ |  1.141...  |
 
-## Generate a Painting from Digits
+*Read more about Pi and constants?  
+[Pi and the Vitruvian Man](/pi-and-the-vitruvian-man)  
+[Warhol, Variables, and Constants](/warhol-and-variables)
+
+## Generate a Painting from Decimals
 
 The main point of irrational numbers is that their decimal expansions are unpredictable, no lines, no repeated numbers, because there is not long division, you don’t know what will come next.
 
@@ -67,11 +77,10 @@ Let’s see how this works, imagine you are making a painting, and each decimal 
 {{< /rawhtml >}}
 
 Summary
-• Some numbers have decimals that do not end.
+• Some numbers have decimals that end, and others that do not end.
 • Decimal expansions where the patterns repeat are 'rational decimals'
 • Decimal expansions where the patterns do not repeat are 'irrational decimals'
 
 
-Read more about Pi and constants?  
-[Pi and the Vitruvian Man](/pi-and-the-vitruvian-man)  
-[Warhol, Variables, and Constants](/warhol-and-variables)
+
+

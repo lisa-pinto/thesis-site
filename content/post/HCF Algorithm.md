@@ -15,7 +15,23 @@ Various locations.
 ## Introduction
 
 Tiles are based on Patterns of smaller components fitting into a bigger space
-               
+
+{{< rawhtml >}}
+<div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
+<div class="threecolumn">
+<img src="/images/jones.jpg" style="width:100px;"> 
+<br> William jones was the first recorded person to use the symbol pi for pi* 
+</div>
+<div class="threecolumn">
+<img src="/images/euler.webp" style="width:100px;">
+<br>In 1607, Leonard Euler, assigned e to the value 2.7182818284….
+</div>
+<div class="threecolumn">
+<img src="/images/gauss.jpg" style="width:100px;">
+<br>In 1755, Gauss first assigned the letter I to root of -1 
+</div>
+</div>   
+{{< /rawhtml >}}               
 
 If you take a rectangular space, only a certain number of full-sized tiles will be able to fit into it. 
 

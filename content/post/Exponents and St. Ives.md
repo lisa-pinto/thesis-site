@@ -13,18 +13,18 @@ math: true
 English Poem, c. 1730
 
 
-## Introduction
+## The Poem
 
 A Classic English poem reads:
 
 "As I went to St Ives  
 I met Nine Wives  
-And every Wife had nine Sacs,  
-And every Sac had nine Cats  
+And every Wife had nine Sacks,  
+And every Sack had nine Cats  
 And every Cat had nine Kittens"  
 
-Each a each level you multiply the exponents by the number nine  
-Let's look at how this works
+Each a each level you multiply the number 9   
+Let's look at how this works  
 
 {{< rawhtml >}}
 <div class="p5js">
@@ -38,16 +38,16 @@ Let's look at how this works
 
 {{< /rawhtml >}}
 
-At each level the exponent is increased by multiplying 9 again.  
+This is called an **increasing exponent**  
 
 At each level you multiply the exponents by the number nine  
-There were nine wives   $\longrightarrow  9 = 9^1$ wives   
-Each wife had nine sacks $ \longrightarrow  9^1$ wives x $9^1$  = $9^{1+1} = 9^2$ sacks  
-Each sack had nine cats  $\longrightarrow  9^2$ sacks x $9^1$  = $9^{2+1} = 9^3$ cats  
-Each cat had nine kittens $\longrightarrow  9^3$ cats x $9^1$  = $9^{3+1} = 9^4$ kittens  
+There were nine wives     $\longrightarrow  9$                       = $9^1$ wives   
+Each wife had nine sacks  $ \longrightarrow  9^1$ wives x $9^1$     = $9^{1+1} = 9^2$ sacks  
+Each sack had nine cats   $\longrightarrow  9^2$ sacks x $9^1$      = $9^{2+1} = 9^3$ cats  
+Each cat had nine kittens $\longrightarrow  9^3$ cats x $9^1$      = $9^{3+1} = 9^4$ kittens  
 
-Summary
-• An exponent shows how many times a number has been multiplied
-• Every time you multiply the number again, the exponent increases by 1
+#### Summary  
+• An exponent shows how many times a number has been multiplied  
+• Every time you multiply the number again, the exponent increases by 1  
 
 Image credits: Unknown
