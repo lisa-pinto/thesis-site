@@ -21,3 +21,4 @@ markup:
     noClasses: no
     tabWidth: 2
 params: {}
+ignoreFiles : ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
