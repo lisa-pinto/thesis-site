@@ -41,3 +41,7 @@ There were nine wives   $\longrightarrow  9 = 9^1$ wives
 Each wife had nine sacks $ \longrightarrow  9^1$ wives x $9^1$  = $9^{1+1} = 9^2$ sacks  
 Each sack had nine cats  $\longrightarrow  9^2$ sacks x $9^1$  = $9^{2+1} = 9^3$ cats  
 Each cat had nine kittens $\longrightarrow  9^3$ cats x $9^1$  = $9^{3+1} = 9^4$ kittens  
+
+Summary
+• An exponent shows how many times a number has been multiplied
+• Every time you multiply the number again, the exponent increases by 1

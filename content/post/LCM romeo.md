@@ -54,3 +54,5 @@ Let’s look at how this works visually
 </div>
 {{< /rawhtml >}}
 
+Summary 
+• The LCM of two numbers is the minimum amount that fits both of them.

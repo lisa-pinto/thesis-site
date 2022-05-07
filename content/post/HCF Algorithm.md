@@ -102,3 +102,7 @@ Play around with the exercise below to find more HCF
 </iframe>
 </div">
 {{< /rawhtml >}}
+
+Summary
+• Every number, when divided by another number will have a quotient and a remainder.
+• If you keep on breaking the remainder down, you will eventually get the smallest factor pf the two numbers.

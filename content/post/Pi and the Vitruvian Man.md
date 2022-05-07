@@ -54,3 +54,7 @@ Let’s take a look at how pi works using a famous circular piece of work – Th
 
 Want to learn more about irrational numbers?
 [Painting with Decimals](/decimals-and-painting)
+
+Summary:
+• Pi is the ratio of the height and border of a circle
+• No matter the size of the circle, the ratio remains the same.

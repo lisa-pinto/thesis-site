@@ -41,7 +41,7 @@ Table of irrational numbers
 
 |  Constant | What is it visually | How to write it in numbers |
 |:---------:|:-----------:|:----------------:|
-| $\pi$      | <img src="Assets/icon.png" width="200">| 3.141... |
+| $\pi$      | ![table image](/images/pattern.webp "pi desc")| 3.141... |
 | $\sqrt{2}$ | xyz         | 1.141           |
 |  $\phi$        | xyz          |   1.1618    |
 | e   |   xyz |  1.141...  |
@@ -60,6 +60,12 @@ Let’s see how this works, imagine you are making a painting, and each decimal 
 </iframe>
 </div>
 {{< /rawhtml >}}
+
+Summary
+• Some numbers have decimals that do not end.
+• Decimal expansions where the patterns repeat are 'rational decimals'
+• Decimal expansions where the patterns do not repeat are 'irrational decimals'
+
 
 Read more about Pi and constants?  
 [Pi and the Vitruvian Man](/pi-and-the-vitruvian-man)  
