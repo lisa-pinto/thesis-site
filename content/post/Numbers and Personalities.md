@@ -12,9 +12,9 @@ math: true
 # The Quadrivium
 c. Ancient Greece
 
-## Numbers
+## The Art of Numbers
 
-The Greeks Developed four Liberal arts of Numbers - Astronomy, Geometry, Arithmetic and Harmony (Music). Numbers has magical properties that transcended their real-life applications.
+The Greeks considered arithmetic one of the four Liberal arts of Numbers - along with Astronomy, Geometry,  Harmony (Music). Numbers was considered as representatives of a purpose higher than themselves, and were connected to they occurences in nature.
 
 ## 
 {{< rawhtml >}}
@@ -27,4 +27,4 @@ The Greeks Developed four Liberal arts of Numbers - Astronomy, Geometry, Arithme
 </div>
 {{< /rawhtml >}}
 
-Image credit: "Quadrivium", Sutton, Martineau, Lundy, Ashton. Published 2010.
+Image credits: "Quadrivium". Sutton, Martineau, Lundy, Ashton. Published 2010.

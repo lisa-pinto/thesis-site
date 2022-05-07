@@ -13,16 +13,16 @@ William Shakespeare c. 1597
 
 ## What are Factors and Multiples
 
-### A factor is simply a number that fits into another
+A factor is simply a number that fits into another
 {{< rawhtml >}}
 <div class="center">
 <img src="/images/2factors.png" style="width:400px;">
 </div>
 {{< /rawhtml >}}
 
-In the above images, you can see that 2, 3 and 6, all fit into the number 6
+In the above image, you can see that 2 fits into 6, which means 2 is a factor of 6.
 
-### A Multiple, is a number that can be produced by multiplying a number.
+A Multiple, on the other hand is a number that can be produced by multiplying a number.
 {{< rawhtml >}}
 <div class="center">
 <img src="/images/multiples.png" style="width:400px;">
@@ -41,13 +41,23 @@ E.g.
 
 More about exponents [here](/exponents-and-st.-ives)
 
-## Calculating the first common multiple of two numbers.  
+## Using Prime factors for a lovers' Tryst  
 Romeo visits the Garden every 27 days,  
 And Juliet visits it every 12 days,  
 On what day will they meet.  
-20 = 2 x 2 x 5 =  $2^2$  x $5^1$  
-15 = 3 x 5 = $3^1$  x $5^1$  
-The Lowest common multiple = $2^2$ x $3^1$ x $5^1$ = 60 days  
+
+#### Step 1: 
+20 days= 2 x 2 x 5 =  $2^2$  x $5^1$  
+15 days = 3 x 5 = $3^1$  x $5^1$  
+
+#### Step 2: Put all the factors together
+$2^2$,  $5^1$, $3^1$,  $5^1$
+
+#### Step 3: Remove any factor that is repeated with a higher exponent, an then multiply
+$2^2$,  $5^1$, $3^1$ ~~, $5^1$~~  
+$2^2$ x $3^1$ x $5^1$ = 60 days  
+
+
 Let’s look at how this works visually  
 
 {{< rawhtml >}}  

@@ -11,7 +11,8 @@ math: true
 
 # Vitruvian Man 
 Leonardo da Vinci c. 1490  
-Pen and Ink on paper, 34.6 cm × 25.5 cm 
+Pen and Ink on paper
+34.6 cm × 25.5 cm 
 "The proportions of the Human body according to Vitruvius"
 
 
@@ -24,16 +25,16 @@ The symbol Pi may strike fear in the hearts of some people, but its basic functi
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
 <div class="threecolumn">
-<img src="/images/nasa.jpg" style="width:100px;"> 
-<br> •	Nasa uses Pi to calculate the size of planets outside our solar system.
+<img src="/images/nasa.jpg" style="width:200px;"> 
+<br> •	Nasa uses pi to calculate the size of planets outside our solar system.
 </div>
 <div class="threecolumn">
-<img src="/images/gps.png" style="width:100px;">
+<img src="/images/gps.png" style="width:200px;">
 <br>•	GPS uses pi to calculate location on earth
 </div>
 <div class="threecolumn">
-<img src="/images/pi.png" style="width:100px;">
-<br>•	Medical Researchers use pi t study the structure of the eye.
+<img src="/images/pi.png" style="width:200px;">
+<br>•	Medical Researchers use pi to study the structure of the eye.
 </div>
 </div>   
 {{< /rawhtml >}}
@@ -59,7 +60,7 @@ Let’s take a look at how pi works using a famous circular piece of work – Th
 </div>
 {{< /rawhtml >}}
 
-Want to learn more about irrational numbers?
+Want to learn more about irrational numbers?  
 [Painting with Decimals](/decimals-and-painting)
 
 Summary:
