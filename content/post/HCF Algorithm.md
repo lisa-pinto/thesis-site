@@ -103,6 +103,14 @@ Play around with the exercise below to find more HCF
 </div">
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<div class="center">
+<img src="/images/formula.png" style="width:150px;box-shadow:none"><br>
+So in the above example, it went like: <br>
+<img src="/images/summary.png" style="width:150px;box-shadow:none">
+</div>
+{{< /rawhtml >}}
+
 Summary
 • Every number, when divided by another number will have a quotient and a remainder.
 • If you keep on breaking the remainder down, you will eventually get the smallest factor pf the two numbers.
