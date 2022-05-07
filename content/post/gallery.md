@@ -10,8 +10,12 @@ math: true
 ---
 
 ## Introduction
-Test Comment
+Gallery of Mathematical curiosities 
 
-The Greeks beleived that all numbers were rational. They 
+# Resources
+|   |   ||
+|---|---| ---|
+||Love | |
+| Normal Key | Value2 ||
 
-# hippasus argument
+<!-- ![drawing](/images/summary.png "cap") -->

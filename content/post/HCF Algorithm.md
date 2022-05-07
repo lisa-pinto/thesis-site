@@ -8,6 +8,9 @@ tags:
 title: Common Factors and pretty tiles
 math: true
 ---
+# Traditional Tile inlay
+Various locations.
+
 
 ## Introduction
 

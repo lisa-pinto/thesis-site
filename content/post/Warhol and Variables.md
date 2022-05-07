@@ -9,6 +9,13 @@ title: Soup Cans and Variables
 math: true
 ---
 
+# Campbell's Soup Cans
+Andy Warhol c. 1962
+Synthetic polymer paint on thirty-two canvases
+51 cm × 41 cm on each canvas
+
+
+
 At some point in your mathematical education, you will reach a point where you have both numbers and letters English and Greek, and nothing is ever the same.
 But some all alphabets are not the same’ there are two kinds  
 •	Variables  

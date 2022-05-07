@@ -8,13 +8,18 @@ description: Pi with the Vitruvian Man
 math: yes
 ---
 
+#  Convergence
+Jackson Pollock(1952) 
+Oil on canvas  237 cm × 390 cm
+
+
 ## Repetition and Non-repetition
 Imagine two paintings
 
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
 <div class="twocolumn">
-<img src="/images/pattern.webp" style="width:400px;">
+<img src="/images/pattern.webp" style="width:400px; ">
 </div>
 <div class="twocolumn">
 <img src="/images/no-pattern.jpg" style="width:400px;">
@@ -41,7 +46,7 @@ Table of irrational numbers
 
 |  Constant | What is it visually | How to write it in numbers |
 |:---------:|:-----------:|:----------------:|
-| $\pi$      | ![table image](/images/pattern.webp "pi desc")| 3.141... |
+| $\pi$      |  | 3.141... |
 | $\sqrt{2}$ | xyz         | 1.141           |
 |  $\phi$        | xyz          |   1.1618    |
 | e   |   xyz |  1.141...  |

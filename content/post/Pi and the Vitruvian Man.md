@@ -9,7 +9,14 @@ title: Pi with the vitruvian man
 math: true
 ---
 
-## Introduction
+# Vitruvian Man 
+Leonardo da Vinci c. 1490  
+Pen and Ink on paper, 34.6 cm × 25.5 cm 
+"The proportions of the Human body according to Vitruvius"
+
+
+  
+### Pi and Us
 
 The symbol Pi may strike fear in the hearts of some people, but its basic function is simple, to calculate the sizes of round things.
 
