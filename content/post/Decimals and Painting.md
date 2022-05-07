@@ -1,12 +1,11 @@
 ---
-author: Lisa
-description: Pi with the Vitruvian Man
-date: "2022-04-28"
+title: "Painting with Decimals"
+author: "Lisa"
+date: '2022-04-28'
 image: no-pattern.jpg
-tags:
-- emoji
-title: Painting with Decimals
-math: true
+tags: emoji
+description: Pi with the Vitruvian Man
+math: yes
 ---
 
 ## Repetition and Non-repetition
@@ -42,7 +41,7 @@ Table of irrational numbers
 
 |  Constant | What is it visually | How to write it in numbers |
 |:---------:|:-----------:|:----------------:|
-| $\pi$      | xyz         | 3.141...         |
+| $\pi$      | <img src="Assets/icon.png" width="200">| 3.141... |
 | $\sqrt{2}$ | xyz         | 1.141           |
 |  $\phi$        | xyz          |   1.1618    |
 | e   |   xyz |  1.141...  |

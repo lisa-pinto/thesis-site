@@ -2,7 +2,7 @@
 author: Lisa
 description: Pi with the Vitruvian Man
 date: "2022-04-29"
-image: soupcans.webp
+image: allcans.jpg
 tags:
 - emoji
 title: Soup Cans and Variables
@@ -24,7 +24,7 @@ Let’s start with 2 letters, x and y.
 <br>And x as an empty soup can,   
 </div>
 <div class="twocolumn">
-<img src="/images/euclid.jpg" style="width:400px;">
+<img src="/images/soupcan.jpg" style="width:100px;">
 </div>
 </div>
 
@@ -42,7 +42,7 @@ Looking at the painting can you guess what soup will be there if y = 5?  <br>
 ☐Onion    <br>
 </div>
 <div class="twocolumn">
-<img src="/images/soupcans.webp" style="width:400px;">
+<img src="/images/allcans.jpg" style="width:600px;">
 </div>
 </div>
 {{< /rawhtml >}}
