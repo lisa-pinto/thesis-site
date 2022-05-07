@@ -74,13 +74,13 @@ To understand more, play around with the exercise below
 ## Finding tiles that fit
 
 So far, we’ve been able to see how , many times a tile of size b fits into a. But can we find a number that fits into both b an a?
+
+Once again Euclid Developed a nifty trick to solve the problem.
 {{< rawhtml >}}
 <div class="center">
-<img src="/images/euclid.jpg" style="width:400px;box-shadow:none">
+<img src="/images/euclidbubble.png" style="width:500px;box-shadow:none">
 </div>
 {{< /rawhtml >}}
-Once again Euclid Developed a nifty trick that allows us to find out the largest tile that can fit an area.
-
 
 Let’s Take The numbers 39 and 15 again
 Since 15 is the smaller side, it is the largest possible tile size that can be used. 
@@ -127,6 +127,7 @@ Let’s summarize how we found the highest common factor of a and b
 <img src="/images/summary.png" style="width:150px;box-shadow:none"><br>
 So the process can be simplified as: <br>
 <img src="/images/formula.png" style="width:150px;box-shadow:none">
+<br> until you reach 0
 </div>
 {{< /rawhtml >}}
                                 

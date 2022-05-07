@@ -82,11 +82,11 @@ Let’s Look at some other famous Real-life constants.
 </div>
 <div class="threecolumn">
 <img src="/images/euler.webp" style="width:200px;">
-<br>In 1607, Leonard Euler, assigned e to the value 2.7182818284….
+<br>In 1607, Leonard Euler, assigned the letter e to the value 2.7182818284….
 </div>
 <div class="threecolumn">
 <img src="/images/gauss.jpg" style="width:200px;">
-<br>In 1755, Gauss first assigned the letter i to root of -1 
+<br>In 1755, Gauss first assigned the letter i to √-1 
 </div>
 </div>   
 {{< /rawhtml >}}

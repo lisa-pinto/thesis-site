@@ -4,7 +4,7 @@ author: "Lisa"
 date: '2022-04-28'
 image: no-pattern.jpg
 tags: emoji
-description: PPainting with Decimals
+description: Painting with Decimals
 math: yes
 ---
 
@@ -53,9 +53,9 @@ Here are some irrational numbers.
 |  Symbol | What is it? | How to write it in numbers |
 |:---------:|:-----------:|:----------------:|
 | $\pi$      | The ratio of a circle's circumference to  its diameter | 3.141... |
-| $\sqrt{2}$ | The diagonal of a square whose side is 1         | 1.141           |
-|  $\phi$  (The golden ratio)      | $1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \ddots}}}}$          |   1.1618    |
-| e   |   $1 + \frac{1}{1} + \frac{1}{1\cdot 2} + \frac{1}{1\cdot 2\cdot 3} + \cdots.$ |  1.141...  |
+| $\sqrt{2}$ | The diagonal of a square whose side is 1         | 1.414..           |
+|  $\phi$  (The golden ratio)      | $1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \ddots}}}}$          |   1.1618...    |
+| e   |   $1 + \frac{1}{1} + \frac{1}{1\cdot 2} + \frac{1}{1\cdot 2\cdot 3} + \cdots.$ |  2.718...  |
 
 *Read more about Pi and constants?  
 [Pi and the Vitruvian Man](/pi-and-the-vitruvian-man)  
