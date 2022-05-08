@@ -9,42 +9,72 @@ title: Gallery of Mathematical Curiosities
 math: true
 ---
 
-## Introduction
-Gallery of Mathematical curiosities 
 
-# Resources
+## Selected Resources
 {{< rawhtml >}}
 <!-- row 1 -->
 <div style="display: flex; width:100%;padding-left:5%;align-content:center;">
+<!-- img 1 -->
 <div style="padding:5%;justify-content: center;">
 <img src="/images/gallery/books.jpg" style="width:200px;"> 
 <br> Oliver Byrne's Euclid in Primary colors 
-<br>
-<a href="https://www.themarginalian.org/2014/10/08/wednesday-anne-bertier/">MOMA</a>
+<br><a href="https://www.themarginalian.org/2013/11/29/taschen-oliver-byrne-euclids-elements/">The Marginalian</a>
 </div>
+<!-- img 2 -->
 <div style="padding:5%;justify-content: center;">
 <img src="/images/gallery/dice.jpg" style="width:200px;">
-<br>In 1607, Leonard Euler, assigned the letter e to the value 2.7182818284….
+<br>Topologist Anatoly Fomenko expressing abstract Mathematical concepts through art.
+<br><a href="https://www.juxtapoz.com/news/illustration/expressing-abstract-mathematical-concepts-through-art/">Juxtapoz</a>
 </div>
+<!-- img 3 -->
 <div style="padding:5%; justify-content: center;">
-<img src="/images/gallery/books.jpg" style="width:200px;">
-<br>In 1755, Gauss first assigned the letter i to √-1 
+<img src="/images/gallery/dotline.png" style="width:200px;">
+<br>The Dot and the Line - A Romance in Lower Mathematics, by Tom and Jerry's Chuck Jones
+<br><a href="https://www.youtube.com/watch?v=D_QhIVYlcmE">Youtube</a>
 </div>
 </div>   
 
 <!-- row 2 -->
 <div style="display: flex; width:100%;padding-left:5%;">
+<!-- img 4 -->
 <div style="padding:5%;justify-content: center;">
-<img src="/images/gallery/books.jpg" style="width:200px;"> 
-<br> William jones was the first recorded person to use the symbol π for pi 
+<img src="/images/gallery/kandinsky.jpeg" style="width:200px;"> 
+<br> Kandinsky: Math Artist?
+<br><a href="https://archive.bridgesmathart.org/2013/bridges2013-473.pdf">Bridgers</a>
 </div>
+<!-- img 5 -->
 <div style="padding:5%;justify-content: center;">
-<img src="/images/gallery/dice.jpg" style="width:200px;">
-<br>In 1607, Leonard Euler, assigned the letter e to the value 2.7182818284….
+<img src="/images/gallery/melancolia.jpg" style="width:200px;">
+<br>The Magic numbers of ALbrecht Durer's Melancolia
+<br><a href="https://www.khanacademy.org/humanities/renaissance-reformation/northern/durer/a/what-is-melencolia">Khan Academy</a>
 </div>
+<!-- img 6 -->
 <div style="padding:5%; justify-content: center;">
-<img src="/images/gallery/books.jpg" style="width:200px;">
-<br>In 1755, Gauss first assigned the letter i to √-1 
+<img src="/images/gallery/mind.png" style="width:200px;">
+<br>Geometrically Mapping the Human consciousness.
+<br><a href="https://www.themarginalian.org/2012/11/20/geometrical-psychology-benjamin-betts/">The Marginalian</a>
+</div>
+</div>  
+
+<!-- row 2 -->
+<div style="display: flex; width:100%;padding-left:5%;">
+<!-- img 7 -->
+<div style="padding:5%;justify-content: center;">
+<img src="/images/gallery/friendship.png" style="width:200px;"> 
+<br> A Geometric Allegory for the Essence of Friendship and Creativity 
+<br><a href="https://www.themarginalian.org/2014/10/08/wednesday-anne-bertier/">The Marginalian</a>
+</div>
+<!-- img 8 -->
+<div style="padding:5%;justify-content: center;">
+<img src="/images/gallery/vinci.jpg" style="width:200px;">
+<br>Leonardo da Vinci's solids
+<br><a href="https://www.maa.org/press/periodicals/convergence/leonardo-da-vincis-geometric-sketches-introduction">Mathematical Association of America</a>
+</div>
+<!-- img 9 -->
+<div style="padding:5%; justify-content: center;">
+<img src="/images/gallery/relativity.jpg" style="width:200px;">
+<br>The Mathematical Secrtes of Escher.
+<br><a href="https://www.bbvaopenmind.com/en/science/leading-figures/the-mathematical-secrets-of-escher/">OpenMind</a>
 </div>
 </div>  
 {{< /rawhtml >}}

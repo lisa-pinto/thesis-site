@@ -98,7 +98,7 @@ Let’s Look at some other famous Real-life constants.
 </div>
 <div style="padding:5%; justify-content: center;">
 <img src="/images/gauss.png" style="width:200px;">
-<br>In 1755, Gauss first assigned the letter i to √-1 
+<br>In 1755, Gauss first assigned the letter i to the complex number √-1 
 </div>
 </div>   
 {{< /rawhtml >}}
