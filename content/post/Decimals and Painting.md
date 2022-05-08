@@ -17,18 +17,18 @@ Oil on canvas  237 cm × 390 cm
 Imagine two paintings
 
 {{< rawhtml >}}
-<div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
-<div class="twocolumn">
-<img src="/images/pattern.webp" style="width:400px; ">
+<div style="display: flex; width:50%;padding-left:10%;align-items: center; "> 
+<div style="padding:20px">
+<img src="/images/pattern.webp" style="width:370px; ">
+This painting has a repeating pattern and is therefore predictable 
 </div>
-<div class="twocolumn">
+<div style="padding:20px">
 <img src="/images/no-pattern.jpg" style="width:400px;">
+This painting has no consistent repetition wich means it is unpredictable
 </div>
 </div>
 {{< /rawhtml >}}
 
-The one on the left has a repeating pattern and is therefore predictable  
-The one on the right has no consistent repetition wich means it is unpredictable
 
  
 ## What does this have to do with Decimals? 

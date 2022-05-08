@@ -27,16 +27,16 @@ Let’s start with 2 letters, x and y.
 
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
-<div class="twocolumn">  
+<div style="padding:40px">  
 <br>Imagine x as an empty soup can,   
 </div>
-<div class="twocolumn">
-<img src="/images/soupcan.jpg" style="width:100px;">
+<div>
+<img src="/images/soupcan.png" style="width:100px;">
 </div>
 </div>
 
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
-<div class="twocolumn">
+<div style="padding:40px">
 Now imagine y = the frame of the artwork <br>
 From these variables, we can form an equation using the = sign.  <br>
 x = the soup in frame y  <br>
@@ -46,7 +46,7 @@ If y= 2, then x = chicken noodle soup,   <br>
 If y= 3, then x = cream of vegetable soup, and so on  <br>
 </div>
 <div class="twocolumn">
-<img src="/images/allcans.jpg" style="width:600px;">
+<img src="/images/allcans.jpg" style="width:450px;">
 </div>
 </div>
 {{< /rawhtml >}}
@@ -76,16 +76,16 @@ Simply put, a constant is a symbol, that many years ago, was given a specific va
 Let’s Look at some other famous Real-life constants.  
 
 {{< rawhtml >}}
-<div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
-<div class="threecolumn">
+<div style="display: flex; width:100%;padding-left:5%;align-items: center; ">
+<div style="padding:5%;justify-content: center;">
 <img src="/images/jones.png" style="width:200px;"> 
 <br> William jones was the first recorded person to use the symbol π for pi 
 </div>
-<div class="threecolumn">
+<div class="padding:5%;justify-content: center;">
 <img src="/images/euler.png" style="width:200px;">
 <br>In 1607, Leonard Euler, assigned the letter e to the value 2.7182818284….
 </div>
-<div class="threecolumn">
+<div style="padding:5%; justify-content: center;">
 <img src="/images/gauss.png" style="width:200px;">
 <br>In 1755, Gauss first assigned the letter i to √-1 
 </div>
