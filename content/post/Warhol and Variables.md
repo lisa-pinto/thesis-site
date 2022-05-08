@@ -17,16 +17,17 @@ Synthetic polymer paint on thirty-two canvases
 
 ## The 2 Kinds of symbols  
 At some point in your mathematical education, you will reach a point where you have both numbers and letters English and Greek, and nothing is ever the same.
-But some all alphabets are not the same, there are two kinds:
+But some all alphabets are not the same, there are two kinds:  
 •	Variables  
 •	Constants  
 ## Variables  
 Variables are symbols which mean different things in different situations. A variable will often be dependent on another variable.  
 
+Let’s start with 2 letters, x and y. 
+
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
-<div class="twocolumn">
-Let’s start with 2 letters, x and y.   
+<div class="twocolumn">  
 <br>Imagine x as an empty soup can,   
 </div>
 <div class="twocolumn">
@@ -40,9 +41,9 @@ Now imagine y = the frame of the artwork <br>
 From these variables, we can form an equation using the = sign.  <br>
 x = the soup in frame y  <br>
 We can figure out x by looking at y  <br>
-If y= 1, then x = black bean soup  <br>
+If y= 1, then x = clam chowder soup  <br>
 If y= 2, then x = chicken noodle soup,   <br>
-If y= 3, then x = vegetable soup, and so on  <br>
+If y= 3, then x = cream of vegetable soup, and so on  <br>
 </div>
 <div class="twocolumn">
 <img src="/images/allcans.jpg" style="width:600px;">
@@ -91,7 +92,7 @@ Let’s Look at some other famous Real-life constants.
 </div>   
 {{< /rawhtml >}}
 
-Learn more about Pi [here](/pi-and-the-vitruvian-man)
+Learn more about Pi [here](/post/pi-and-the-vitruvian-man)
 
 Because these symbols were set to one value so long ago, whenever they are used in modern mathematics sums, they always have the same value, thus, they are never used as variables.  
 So whenever you see e, I, φ, π in a sum, they cannot mean anything else.  

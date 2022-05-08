@@ -39,11 +39,11 @@ E.g.
 66 = 2 x 3 x 11 = $2^1$ x $3^1$ x $11^1$  
 108 = 3 x 3 x 3 x 2 x 2 = $3^3$  x $2^2$  
 
-More about exponents [here](/exponents-and-st.-ives)
+More about exponents [here](/post/exponents-and-st.-ives)
 
 ## Using Prime factors for a lovers' Tryst  
-Romeo visits the Garden every 27 days,  
-And Juliet visits it every 12 days,  
+Romeo visits the Garden every 20 days,  
+And Juliet visits it every 15 days,  
 On what day will they meet.  
 
 #### Step 1: 
@@ -66,7 +66,7 @@ Let’s look at how this works visually
 </div>
 {{< /rawhtml >}}
 
-Summary 
+Summary  
 • The LCM of two numbers is the minimum amount that fits both of them.
 
 

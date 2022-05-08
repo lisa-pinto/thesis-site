@@ -58,8 +58,8 @@ Here are some irrational numbers.
 | e   |   $1 + \frac{1}{1} + \frac{1}{1\cdot 2} + \frac{1}{1\cdot 2\cdot 3} + \cdots.$ |  2.718...  |
 
 *Read more about Pi and constants?  
-[Pi and the Vitruvian Man](/pi-and-the-vitruvian-man)  
-[Warhol, Variables, and Constants](/warhol-and-variables)
+[Pi and the Vitruvian Man](/post/pi-and-the-vitruvian-man)  
+[Warhol, Variables, and Constants](/post/warhol-and-variables)
 
 ## Generate a Painting from Decimals
 
