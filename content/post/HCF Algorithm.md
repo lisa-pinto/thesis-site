@@ -18,15 +18,15 @@ Many cultures in history have had their own traditional tiling arts
 
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
-<div class="threecolumn">
+<div style="padding:5%;justify-content: center;">
 <img src="/images/azulejo.jpg" style="width:200px;"> 
 <br> The Portuguese have traditional blue-and-white tiles called azulejo.
 </div>
-<div class="threecolumn">
+<div style="padding:5%;justify-content: center;">
 <img src="/images/persian.jpg" style="width:200px;">
 <br>Persian tiles are notable for their intricate geometry
 </div>
-<div class="threecolumn">
+<div style="padding:5%;justify-content: center;">
 <img src="/images/pietra.jpg" style="width:200px;">
 <br>Pietra dura was started by the italians but was widely used by the mughals. 
 </div>

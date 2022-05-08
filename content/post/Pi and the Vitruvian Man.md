@@ -24,17 +24,17 @@ The symbol Pi may strike fear in the hearts of some people, but its basic functi
 
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
-<div class="threecolumn">
+<div style="padding:5%;justify-content: center;">
 <img src="/images/nasa.jpg" style="width:200px;"> 
-<br> •	Nasa uses pi to calculate the size of planets outside our solar system.
+<br> Nasa uses pi to calculate the size of planets outside our solar system.
 </div>
-<div class="threecolumn">
-<img src="/images/gps.png" style="width:200px;">
-<br>•	GPS uses pi to calculate location on earth
+<div style="padding:5%;justify-content: center;">
+<img src="/images/gps.png" style="width:200px;box-shadow:none">
+<br>Global Positioning System (GPS) uses pi to calculate locations on earth
 </div>
-<div class="threecolumn">
+<div style="padding:5%;justify-content: center;">
 <img src="/images/pi.png" style="width:200px;">
-<br>•	Medical Researchers use pi to study the structure of the eye.
+<br>Medical Researchers use pi to study the structure of the eye.
 </div>
 </div>   
 {{< /rawhtml >}}
@@ -44,7 +44,7 @@ So, if the diameter of a circle is 1, the border of a circle is Pi
 
 {{< rawhtml >}}
 <div class="center">
-<img src="/images/circle-dem.svg" style="width:400px;">
+<img src="/images/circle-dem.svg" style="width:250px;box-shadow:none;">
 </div>
 {{< /rawhtml >}}
 
@@ -63,6 +63,6 @@ Let’s take a look at how pi works using a famous circular piece of work – Th
 Want to learn more about irrational numbers?  
 [Painting with Decimals](/post/decimals-and-painting)
 
-Summary:
-• Pi is the ratio of the height and border of a circle
-• No matter the size of the circle, the ratio remains the same.
+Summary:  
+• Pi is the ratio of the height and border of a circle  
+• No matter the size of the circle, the ratio remains the same.  

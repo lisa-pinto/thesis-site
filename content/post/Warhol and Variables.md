@@ -13,40 +13,45 @@ math: true
 Andy Warhol c. 1962
 Synthetic polymer paint on thirty-two canvases
 51 cm × 41 cm on each canvas
+&nbsp;
 
+&nbsp;
 
 ## The 2 Kinds of symbols  
 At some point in your mathematical education, you will reach a point where you have both numbers and letters English and Greek, and nothing is ever the same.
 But some all alphabets are not the same, there are two kinds:  
 •	Variables  
 •	Constants  
+&nbsp;
+
+
 ## Variables  
 Variables are symbols which mean different things in different situations. A variable will often be dependent on another variable.  
 
 Let’s start with 2 letters, x and y. 
 
 {{< rawhtml >}}
-<div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
-<div style="padding:40px">  
-<br>Imagine x as an empty soup can,   
-</div>
-<div>
+<div style="display: flex; width:100%;padding-left:5%;align-items: center; ">
+  <div style="padding:40px">  
+    <br>Imagine x as an empty soup can,   
+  </div>
+  <div>
 <img src="/images/soupcan.png" style="width:100px;">
 </div>
 </div>
 
-<div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
+<div style="display: flex; width:100%;padding-left:5%;align-items: center; ">
 <div style="padding:40px">
 Now imagine y = the frame of the artwork <br>
 From these variables, we can form an equation using the = sign.  <br>
 x = the soup in frame y  <br>
 We can figure out x by looking at y  <br>
-If y= 1, then x = clam chowder soup  <br>
-If y= 2, then x = chicken noodle soup,   <br>
-If y= 3, then x = cream of vegetable soup, and so on  <br>
+If y= 1, then x = chicken noodle soup  <br>
+If y= 2, then x = cream of vegetable soup,   <br>
+If y= 3, then x = onion soup, and so on  <br>
 </div>
 <div class="twocolumn">
-<img src="/images/allcans.jpg" style="width:450px;">
+<img src="/images/allcans2.jpg" style="width:450px;">
 </div>
 </div>
 {{< /rawhtml >}}
@@ -68,10 +73,16 @@ What will x be if y = 10?
 ☐100  
 Just like in the above soup can examples, x looks the same, but means different things depending on y.  
 
+&nbsp;
+
 ## Constants
-A constant is a symbol that has the same meaning everywhere you use it. The word “constant”, itself means something that does not change.   
+A constant is a symbol that has the same meaning everywhere you use it. The word “constant”, itself means something that does not change.  
+&nbsp; 
+
 Firstly, all real numbers are constants : 1, 2, 3, 35.57, √2 etc. are all constants because their value will remain the same.  
 The symbol π is a constant, that always equals 3.1412…  
+&nbsp;
+
 Simply put, a constant is a symbol, that many years ago, was given a specific value by someone, and since then has only been used to represent that value.  
 Let’s Look at some other famous Real-life constants.  
 
