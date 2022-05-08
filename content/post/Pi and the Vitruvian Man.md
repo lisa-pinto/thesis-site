@@ -9,15 +9,17 @@ title: Pi with the vitruvian man
 math: true
 ---
 
-# Vitruvian Man 
-Leonardo da Vinci c. 1490  
-Pen and Ink on paper
-34.6 cm × 25.5 cm 
-"The proportions of the Human body according to Vitruvius"
+#### Vitruvian Man 
+Leonardo da Vinci c. 1490   
+Pen and Ink on paper  
+34.6 cm × 25.5 cm  
+"The proportions of the Human body according to Vitruvius"  
+&nbsp;
 
+&nbsp;
 
   
-### Pi and Us
+## Pi and Us
 
 The symbol Pi may strike fear in the hearts of some people, but its basic function is simple, to calculate the sizes of round things.
 
@@ -63,6 +65,6 @@ Let’s take a look at how pi works using a famous circular piece of work – Th
 Want to learn more about irrational numbers?  
 [Painting with Decimals](/post/decimals-and-painting)
 
-Summary:  
+#### Summary:  
 • Pi is the ratio of the height and border of a circle  
 • No matter the size of the circle, the ratio remains the same.  

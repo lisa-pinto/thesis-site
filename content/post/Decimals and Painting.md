@@ -8,10 +8,12 @@ description: Painting with Decimals
 math: yes
 ---
 
-#  Convergence
+####  Convergence
 Jackson Pollock(1952) 
 Oil on canvas  237 cm × 390 cm
+&nbsp;
 
+&nbsp;
 
 ## Repetition and Non-repetition
 Imagine two paintings
@@ -29,6 +31,7 @@ This painting has no consistent repetition wich means it is unpredictable
 </div>
 {{< /rawhtml >}}
 
+&nbsp;
 
  
 ## What does this have to do with Decimals? 
@@ -43,6 +46,11 @@ e.g.  $\frac{1}{3} = 3.\overline{3}$  or $\frac{87}{37}= 0.\overline{243}$
 
 All of these decimals that end or keep on going with a pattern are rational decimals.
 But what if the Digits did not repeat?
+&nbsp;
+
+&nbsp;
+
+
 ## Irrational numbers.
 All irrational numbers have two common properties.
 •	They cannot be represented using a fraction.
@@ -60,6 +68,9 @@ Here are some irrational numbers.
 *Read more about Pi and constants?  
 [Pi and the Vitruvian Man](/post/pi-and-the-vitruvian-man)  
 [Warhol, Variables, and Constants](/post/warhol-and-variables)
+&nbsp;
+
+&nbsp;
 
 ## Generate a Painting from Decimals
 
@@ -76,10 +87,10 @@ Let’s see how this works, imagine you are making a painting, and each decimal 
 </div>
 {{< /rawhtml >}}
 
-Summary
-• Some numbers have decimals that end, and others that do not end.
-• Decimal expansions where the patterns repeat are 'rational decimals'
-• Decimal expansions where the patterns do not repeat are 'irrational decimals'
+#### Summary  
+• Some numbers have decimals that end, and others that do not end.  
+• Decimal expansions where the patterns repeat are 'rational decimals'  
+• Decimal expansions where the patterns do not repeat are 'irrational decimals'  
 
 
 

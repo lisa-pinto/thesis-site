@@ -9,10 +9,10 @@ title: Soup Cans and Variables
 math: true
 ---
 
-# Campbell's Soup Cans
-Andy Warhol c. 1962
-Synthetic polymer paint on thirty-two canvases
-51 cm × 41 cm on each canvas
+#### Campbell's Soup Cans
+Andy Warhol c. 1962  
+Synthetic polymer paint on thirty-two canvases  
+51 cm × 41 cm on each canvas  
 &nbsp;
 
 &nbsp;
@@ -110,7 +110,7 @@ So whenever you see e, I, φ, π in a sum, they cannot mean anything else.
 
 
 
- Summary  
+ #### Summary  
 •	Variables are symbols whose value can change    
 •	Constants are symbols whose value stays the same.   
 

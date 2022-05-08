@@ -9,11 +9,13 @@ title: Travelling with Exponents
 math: true
 ---
 
-# "As I was going to St. Ives"
+#### "As I was going to St. Ives"
 English Poem, c. 1730
+&nbsp;
 
+&nbsp;
 
-## The Poem
+## Numbers in Poetry 
 
 A Classic English poem reads:
 

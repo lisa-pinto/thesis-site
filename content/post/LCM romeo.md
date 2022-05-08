@@ -8,8 +8,12 @@ tags:
 title: Forbidden Love and Common Multiples
 math: true
 ---
-# Romeo and Juliet
-William Shakespeare c. 1597
+#### Romeo and Juliet
+William Shakespeare c. 1597  
+&nbsp;
+
+&nbsp;
+
 
 ## What are Factors and Multiples
 
@@ -30,6 +34,10 @@ A Multiple, on the other hand is a number that can be produced by multiplying a 
 {{< /rawhtml >}}
 
 In the above image, you can see that 2, 4, 6 and 8 are all multiples of 2
+&nbsp;
+
+&nbsp;
+
 ## Prime factors
 
 The prime factors of a number allow you to break a number into its most basic pieces.
@@ -40,20 +48,23 @@ E.g.
 108 = 3 x 3 x 3 x 2 x 2 = $3^3$  x $2^2$  
 
 More about exponents [here](/post/exponents-and-st.-ives)
+&nbsp;
+
+&nbsp;
 
 ## Using Prime factors for a lovers' Tryst  
 Romeo visits the Garden every 20 days,  
 And Juliet visits it every 15 days,  
 On what day will they meet.  
 
-#### Step 1: 
+**Step 1:**  
 20 days= 2 x 2 x 5 =  $2^2$  x $5^1$  
 15 days = 3 x 5 = $3^1$  x $5^1$  
 
-#### Step 2: Put all the factors together
+**Step 2: Put all the factors together**  
 $2^2$,  $5^1$, $3^1$,  $5^1$
 
-#### Step 3: Remove any factor that is repeated with a higher exponent, an then multiply
+**Step 3: Remove any factor that is repeated with a higher exponent, an then multiply** 
 $2^2$,  $5^1$, $3^1$ ~~, $5^1$~~  
 $2^2$ x $3^1$ x $5^1$ = 60 days  
 
@@ -66,7 +77,7 @@ Let’s look at how this works visually
 </div>
 {{< /rawhtml >}}
 
-Summary  
+#### Summary  
 • The LCM of two numbers is the minimum amount that fits both of them.
 
 

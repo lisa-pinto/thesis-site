@@ -8,8 +8,11 @@ tags:
 title: Common Factors and pretty tiles
 math: true
 ---
-# Traditional Tile inlay
+#### Traditional Tile inlay
 Various locations.
+&nbsp;
+
+&nbsp;
 
 
 ## Introduction
@@ -34,6 +37,9 @@ Many cultures in history have had their own traditional tiling arts
 {{< /rawhtml >}}        
 
 They all have one thing in common: They are based on Patterns of smaller components fitting into a bigger space
+&nbsp;
+
+&nbsp;
 
 ## Finding Space for tiles
 
@@ -68,8 +74,11 @@ To understand more, play around with the exercise below
         style="border-style: none;width: 800px; height: 450px"
          >
 </iframe>
-</div">
+</div>
 {{< /rawhtml >}}
+&nbsp;
+
+&nbsp;
 
 ## Finding tiles that fit
 
@@ -94,33 +103,37 @@ We already know that the biggest possible tile is 15, and you will have 9 remain
 
 Let’s try to break that remaining piece down. 
 You can, divide the remaining space by 9, but 9 does not fit into 15, so you will still have 6 remaining
-{{< rawhtml >}} -->
+{{< rawhtml >}} 
  <div class="center">
 <img src="/images/tiles/9.png" style="width:400px;">
-</div> -->
+</div> 
 {{< /rawhtml >}}
  
-You can further divide the remaining space by 6, but 6 does not fit into 9, so you will still have 3 remaining
+<br>You can further divide the remaining space by 6, but 6 does not fit into 9, so you will still have 3 remaining
+
  {{< rawhtml >}}
 <div class="center">
 <img src="/images/tiles/6.png" style="width:400px;">
 </div>
 {{< /rawhtml >}}
-Finally, if divide the last space by 3, since 3 fits perfectly into 6 you can finally cover the remaining space
+
+<br>Finally, if divide the last space by 3, since 3 fits perfectly into 6 you can finally cover the remaining space
+
 {{< rawhtml >}}
 <div class="center">
 <img src="/images/tiles/3.png" style="width:400px;">
 </div>
 {{< /rawhtml >}}
 
-Now that you know that 3 is the largest common factor you can tile the entire floor.
+<br>Now that you know that 3 is the largest common factor you can tile the entire floor.  
 
 {{< rawhtml >}}
 <div class="center">
 <img src="/images/allhcf.png" style="width:400px;">
 </div>
 {{< /rawhtml >}}
-Let’s summarize how we found the highest common factor of a and b
+
+<br>Let’s summarize how we found the highest common factor of a and b  
 
 {{< rawhtml >}}
 <div class="center">
@@ -130,6 +143,9 @@ So the process can be simplified as: <br>
 <br> until you reach 0
 </div>
 {{< /rawhtml >}}
+&nbsp;
+
+&nbsp;
                                 
 Play around with the exercise below to find more HCF
 
@@ -141,10 +157,10 @@ Play around with the exercise below to find more HCF
         style="border-style: none;width: 800px; height: 550px"
          >
 </iframe>
-</div">
+</div>
 {{< /rawhtml >}}
 
 
-Summary  
+#### Summary  
 • Every number, when divided by another number will have a quotient and a remainder.  
 • If you keep on breaking the remainder down, you will eventually get the smallest factor pf the two numbers.  
