@@ -2,7 +2,7 @@
 author: Lisa
 description: Numbers and their Personalities
 date: "2022-04-30"
-image: allnums.png 
+image: nums2.png 
 tags:
 - emoji
 title: Numbers and their Personalities - A Primer
