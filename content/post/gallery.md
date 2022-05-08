@@ -1,16 +1,18 @@
 ---
 author: Lisa
 description: Gallery of Mathematical Curiosities
-image: psun.jpg
+image: curiosities.jpg
 date: "2022-04-23"
 tags:
 - emoji
-title: Gallery of Mathematical Curiosities
+title: Archive of Mathematical Curiosities
 math: true
 ---
 
 
 ## Selected Resources
+On the Intersection of Mathematics, Fine Art, and Humanities
+
 {{< rawhtml >}}
 <!-- row 1 -->
 <div style="display: flex; width:100%;padding-left:5%;align-content:center;">
@@ -80,3 +82,4 @@ math: true
 {{< /rawhtml >}}
 
 <!-- ![drawing](/images/summary.png "cap") -->
+Image Credit: Ole Worm’s Cabinet of Wonder: Natural Specimens and Wondrous Monsters by G. Wingendrop
