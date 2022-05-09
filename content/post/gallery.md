@@ -13,7 +13,13 @@ math: true
 ## Selected Resources
 On the Intersection of Mathematics, Fine Art, and Humanities
 
+<!-- style="font-family: Arno Pro; font-size: 2em !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;" -->
+
+
 {{< rawhtml >}}
+<p >On the Intersection of Mathematics, Fine Art, and Humanities<p>
 <!-- row 1 -->
 <div style="display: flex; width:100%;padding-left:5%;align-content:center;">
 <!-- img 1 -->
@@ -31,7 +37,7 @@ On the Intersection of Mathematics, Fine Art, and Humanities
 <!-- img 3 -->
 <div style="padding:5%; justify-content: center;">
 <img src="/images/gallery/dotline.png" style="width:200px;">
-<br>The Dot and the Line - A Romance in Lower Mathematics, by Tom and Jerry's Chuck Jones
+<br>The Dot and the Line - A Romance in Lower Mathematics, by Chuck Jones (Artist of Tom and Jerry)
 <br><a href="https://www.youtube.com/watch?v=D_QhIVYlcmE">Youtube</a>
 </div>
 </div>   
@@ -47,7 +53,7 @@ On the Intersection of Mathematics, Fine Art, and Humanities
 <!-- img 5 -->
 <div style="padding:5%;justify-content: center;">
 <img src="/images/gallery/melancolia.jpg" style="width:200px;">
-<br>The Magic numbers of ALbrecht Durer's Melancolia
+<br>The Magic numbers of Albrecht Durer's Melancolia
 <br><a href="https://www.khanacademy.org/humanities/renaissance-reformation/northern/durer/a/what-is-melencolia">Khan Academy</a>
 </div>
 <!-- img 6 -->

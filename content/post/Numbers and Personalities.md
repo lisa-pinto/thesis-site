@@ -5,7 +5,7 @@ date: "2022-04-30"
 image: nums2.png 
 tags:
 - emoji
-title: Numbers and their Personalities - A Primer
+title: Numbers and their Natures - A Primer
 math: true
 ---
 
