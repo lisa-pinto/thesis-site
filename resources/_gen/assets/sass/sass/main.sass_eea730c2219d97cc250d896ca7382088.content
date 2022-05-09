@@ -10,7 +10,7 @@ html {
   --bg-dark: #000;
   --text: var(--dark);
   --font: 'Metropolis', sans-serif;
-  --theme: rgb(52,199,89);
+  --theme: rgb(140, 29, 44);
   --ease: cubic-bezier(.19,1,.22,1);
 }
 
@@ -20,7 +20,7 @@ html[data-mode="dim"] {
   --bg: var(--bg-dark);
   --text: var(--light);
   --accent: var(--bubble);
-  --theme: rgb(48,209,88);
+  --theme: rgb(140, 29, 44);
 }
 
 html[data-mode="dim"] * {
@@ -42,7 +42,7 @@ html[data-mode="dim"] .color_choice::after {
     --bg: var(--bg-dark);
     --text: var(--light);
     --accent: var(--bubble);
-    --theme: rgb(48,209,88);
+    --theme: rgb(140, 29, 44);
   }
   html:not(.nodarkmode):not([data-mode="lit"]) * {
     box-shadow: none !important;
@@ -298,10 +298,11 @@ hr {
 
 table {
   width: 100%;
-  max-width: 100%;
+  max-width: 800px;
+  padding-left: 10%;
   overflow-x: scroll;
   border-collapse: collapse;
-  margin: 1rem 0;
+  margin: 2rem 0;
   background: transparent;
   border-style: hidden;
   box-shadow: 0 1rem 4rem rgba(0, 0, 0, 0.15);
@@ -313,6 +314,7 @@ table:not(.ln-table) tr {
 
 th {
   text-align: left;
+  font-weight: 400;
   color: var(--light);
 }
 
@@ -838,7 +840,7 @@ aside h3 {
 }
 
 .post_inner a {
-  color: var(--theme);
+  color: #c34c28;
   transition: all 0.3s;
 }
 
