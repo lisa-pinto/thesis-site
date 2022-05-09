@@ -73,7 +73,7 @@ Let’s look at how this works visually
 
 {{< rawhtml >}}  
 <div class="center">
-<img src="/images/garden.png" style="width:700px;">
+<img src="/images/garden.png" style="width:700px;box-shadow:none">
 </div>
 {{< /rawhtml >}}
 

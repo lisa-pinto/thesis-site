@@ -5,7 +5,7 @@ date: "2022-04-24"
 image: tiles.webp
 tags:
 - emoji
-title: Common Factors and pretty tiles
+title: Common Factors and Pretty tiles
 math: true
 ---
 #### Traditional Tile inlay

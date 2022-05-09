@@ -23,10 +23,10 @@ On the Intersection of Mathematics, Fine Art, and Humanities
 <!-- row 1 -->
 <div style="display: flex; width:100%;padding-left:5%;align-content:center;">
 <!-- img 1 -->
-<div style="padding:5%;justify-content: center;">
+<div style="padding:5%;justify-content: center;" >
 <img src="/images/gallery/books.jpg" style="width:200px;"> 
 <br> Oliver Byrne's Euclid in Primary colors 
-<br><a href="https://www.themarginalian.org/2013/11/29/taschen-oliver-byrne-euclids-elements/">The Marginalian</a>
+<br><a font-size=14px href="https://www.themarginalian.org/2013/11/29/taschen-oliver-byrne-euclids-elements/">The Marginalian</a>
 </div>
 <!-- img 2 -->
 <div style="padding:5%;justify-content: center;">

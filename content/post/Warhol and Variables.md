@@ -33,7 +33,7 @@ Let’s start with 2 letters, x and y.
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:5%;align-items: center; ">
   <div style="padding:40px">  
-    <br>Imagine x as an empty soup can,   
+    <br>Imagine 'x' as an empty soup can,   
   </div>
   <div>
 <img src="/images/soupcan.png" style="width:100px;">
@@ -42,9 +42,11 @@ Let’s start with 2 letters, x and y.
 
 <div style="display: flex; width:100%;padding-left:5%;align-items: center; ">
 <div style="padding:40px">
-Now imagine y = the frame of the artwork <br>
-From these variables, we can form an equation using the = sign.  <br>
+Now imagine 'y' represents the frame of the artwork <br>
+<br>
+From these variables, we can form an equation using the = sign. <br>
 x = the soup in frame y  <br>
+<br>
 We can figure out x by looking at y  <br>
 If y= 1, then x = chicken noodle soup  <br>
 If y= 2, then x = cream of vegetable soup,   <br>
@@ -56,18 +58,16 @@ If y= 3, then x = onion soup, and so on  <br>
 </div>
 {{< /rawhtml >}}
 
-Looking at the painting can you guess what soup will be there if y = 5?  
 
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
-<p><input type="checkbox" name="gender" value="male"> Male <br></p>
-<p><input type="checkbox" name="gender" value="female"> Female <br></p>
-<p><input type="checkbox" name="gender" value="other"> Other <br></p>
+ Looking at the painting can you guess what soup will be there if y = 5?  
+ (Hint: 🧀)         
 </div>
 {{< /rawhtml >}}
 
 
-Now Let’s create a real equation using x  
+<!-- Now Let’s create a real equation using x  
 x = 5y  
 If y = 1, then x = 5  
 If y = 2, then x = 10  
@@ -76,7 +76,7 @@ What will x be if y = 10?
 * [ ] 25  
 - [ ] 50  
 - [ ] 100  
-Just like in the above soup can examples, x looks the same, but means different things depending on y.  
+Just like in the above soup can examples, x looks the same, but means different things depending on y.   -->
 
 &nbsp;
 

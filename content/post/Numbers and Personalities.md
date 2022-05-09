@@ -22,7 +22,7 @@ The Greeks considered arithmetic one of the four Liberal arts of Numbers - along
 <div class="center">
 <iframe 
         src="https://editor.p5js.org/lisa-pinto/full/5mNzcssyl"
-        style="border-style: none;width: 800px; height: 795px"
+        style="border-style: none;width: 800px; height: 645px"
         >
 </iframe>
 </div>
