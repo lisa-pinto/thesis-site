@@ -57,16 +57,16 @@ Romeo visits the Garden every 20 days,
 And Juliet visits it every 15 days,  
 On what day will they meet.  
 
-**Step 1:**  
+**Step 1: Find the prime factors of the two numbers**    
 20 days= 2 x 2 x 5 =  $2^2$  x $5^1$  
 15 days = 3 x 5 = $3^1$  x $5^1$  
 
-**Step 2: Put all the factors together**  
-$2^2$,  $5^1$, $3^1$,  $5^1$
+**Step 2: Put all the factors of both numbers together, and select the ones that are not repeated**    
+$2^2$,  $5^1$, $3^1$,  $5^1$  
+$\boxed{2^2}$ ,  $\boxed{5^1}$ , $\boxed{3^1}$ , $5^1$ 
 
-**Step 3: Remove any factor that is repeated with a higher exponent, an then multiply** 
-$2^2$,  $5^1$, $3^1$ ~~, $5^1$~~  
-$2^2$ x $3^1$ x $5^1$ = 60 days  
+**Step 3: Multiply the Selected factors**   
+$2^2$ x $3^1$ x $5^1$ = $4$ x $3$ x $5$ = $60$ days  
 
 
 Let’s look at how this works visually  
