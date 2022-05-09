@@ -13,7 +13,6 @@ math: true
 Leonardo da Vinci c. 1490   
 Pen and Ink on paper  
 34.6 cm × 25.5 cm  
-"The proportions of the Human body according to Vitruvius"  
 &nbsp;
 
 &nbsp;
@@ -66,5 +65,5 @@ Want to learn more about irrational numbers?
 [Painting with Decimals](/post/decimals-and-painting)
 
 #### Summary:  
-• Pi is the ratio of the height and border of a circle  
+• Pi is the ratio of the border of a circle compared to its height
 • No matter the size of the circle, the ratio remains the same.  

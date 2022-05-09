@@ -13,13 +13,10 @@ math: true
 ## Selected Resources
 On the Intersection of Mathematics, Fine Art, and Humanities
 
-<!-- style="font-family: Arno Pro; font-size: 2em !important;
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;" -->
+
 
 
 {{< rawhtml >}}
-<p >On the Intersection of Mathematics, Fine Art, and Humanities<p>
 <!-- row 1 -->
 <div style="display: flex; width:100%;padding-left:5%;align-content:center;">
 <!-- img 1 -->

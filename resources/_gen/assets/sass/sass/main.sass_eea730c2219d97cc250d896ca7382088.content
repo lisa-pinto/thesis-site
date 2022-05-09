@@ -108,6 +108,38 @@ html[data-mode="dim"] .color_choice::after {
   src: local("Cookie-Regular"), url("../fonts/cookie-v10-latin-regular.woff") format("woff2"), url("../fonts/cookie-v10-latin-regular.woff") format("woff");
 }
 
+@font-face {
+  font-family: 'Arno Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: local("ArnoPro-LightDisplay"), url("../fonts/ArnoPro-LightDisplay.otf");
+}
+
+@font-face {
+  font-family: 'Migra';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: local("Migra-Extralight"), url("../fonts/Migra-Extralight.otf");
+}
+
+@font-face {
+  font-family: 'Migra Italic';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src: local("MigraItalic-ExtralightItalic"), url("../fonts/MigraItalic-ExtralightItalic.otf");
+}
+
+@font-face {
+  font-family: 'Migra Bold';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 650;
+  src: local("Migra-Extrabold"), url("../fonts/Migra-Extrabold.otf");
+}
+
 @keyframes showMenu {
   0% {
     top: -100%;
@@ -204,9 +236,9 @@ code {
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Arno Pro';
+  font-family: 'Migra';
   text-transform: capitalize;
-  font-weight: 400;
+  font-weight: 200;
   padding: 0.33rem 0;
   margin: 1rem 0;
   color: inherit;
@@ -214,7 +246,7 @@ h1, h2, h3, h4, h5 {
 
 h1 {
   font-size: 200%;
-  font-weight: 400;
+  font-weight: 200;
 }
 
 h2 {
@@ -672,7 +704,8 @@ aside h3 {
 }
 
 .nav-brand {
-  font-family: "Arno Pro";
+  font-family: "Migra";
+  font-weight: 200;
   font-size: 2em !important;
   padding-top: 0 !important;
   padding-bottom: 0 !important;

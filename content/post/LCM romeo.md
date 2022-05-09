@@ -48,13 +48,14 @@ E.g.
 108 = 3 x 3 x 3 x 2 x 2 = $3^3$  x $2^2$  
 
 More about exponents [here](/post/exponents-and-st.-ives)
+More about Prime numbers [here](/post/gallery/)
 &nbsp;
 
 &nbsp;
 
 ## Using Prime factors for a lovers' Tryst  
-Romeo visits the Garden every 20 days,  
-And Juliet visits it every 15 days,  
+Romeo 🤵 visits the Garden every 20 days,  
+And Juliet 💃 visits it every 15 days,  
 On what day will they meet.  
 
 **Step 1: Find the prime factors of the two numbers**    

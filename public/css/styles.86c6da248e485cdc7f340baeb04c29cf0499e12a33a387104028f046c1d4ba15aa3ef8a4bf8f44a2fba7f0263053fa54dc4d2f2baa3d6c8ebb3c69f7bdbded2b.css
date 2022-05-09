@@ -108,6 +108,42 @@ html[data-mode="dim"] .color_choice::after {
   src: local("Cookie-Regular"), url("../fonts/cookie-v10-latin-regular.woff") format("woff2"), url("../fonts/cookie-v10-latin-regular.woff") format("woff");
 }
 
+@font-face {
+  font-family: 'Arno Pro';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: local("ArnoPro-LightDisplay"),
+  url("../fonts/ArnoPro-LightDisplay.otf") format("otf")
+}
+
+@font-face {
+  font-family: 'Migra';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200;
+  src: local("Migra-Extralight"),
+  url("../fonts/Migra-Extralight.otf") format("otf")
+}
+
+@font-face {
+  font-family: 'Migra Italic';
+  font-style: italic;
+  font-display: swap;
+  font-weight: 200;
+  src: local("MigraItalic-ExtralightItalic"),
+  url("../fonts/MigraItalic-ExtralightItalic.otf") format("otf")
+}
+
+@font-face {
+  font-family: 'Migra Bold';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 650;
+  src: local("Migra-Extrabold"),
+  url("../fonts/Migra-Extrabold.otf") format("otf")
+} 
+
 @keyframes showMenu {
   0% {
     top: -100%;
