@@ -56,10 +56,15 @@ If y= 3, then x = onion soup, and so on  <br>
 </div>
 {{< /rawhtml >}}
 
-Looking at the painting can you guess what soup will be there if y = 5?  <br>
-☐ Green Pea  <br>
-☐Tomato   <br>
-☐Onion    <br>
+Looking at the painting can you guess what soup will be there if y = 5?  
+
+{{< rawhtml >}}
+<div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
+<p><input type="checkbox" name="gender" value="male"> Male <br></p>
+<p><input type="checkbox" name="gender" value="female"> Female <br></p>
+<p><input type="checkbox" name="gender" value="other"> Other <br></p>
+</div>
+{{< /rawhtml >}}
 
 
 Now Let’s create a real equation using x  
@@ -68,9 +73,9 @@ If y = 1, then x = 5
 If y = 2, then x = 10  
 If y = 3, then x = 15  
 What will x be if y = 10?  
-☐ 25  
-☐50  
-☐100  
+* [ ] 25  
+- [ ] 50  
+- [ ] 100  
 Just like in the above soup can examples, x looks the same, but means different things depending on y.  
 
 &nbsp;
