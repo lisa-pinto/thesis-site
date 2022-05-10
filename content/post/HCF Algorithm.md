@@ -156,7 +156,7 @@ Let’s try to break that remaining piece down.
 
 <br>Finally, if divide the last space by 3,  
 6 = 3(2) + 0,  
-There is nothing left so you can fill the remaining space.
+There is nothing left so you can fill the remaining space. 
 
 {{< rawhtml >}}
 <div class="center">
