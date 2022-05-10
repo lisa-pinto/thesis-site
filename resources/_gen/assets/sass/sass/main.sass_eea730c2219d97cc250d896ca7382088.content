@@ -1370,4 +1370,12 @@ pre {
   color: #666;
 }
 
+.subtitlediv {
+  margin-top: 3rem;
+}
+
+.subtextx {
+  font-size: 2rem;
+}
+
 /*# sourceMappingURL=styles.css.map */

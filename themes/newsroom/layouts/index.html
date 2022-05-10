@@ -1,6 +1,10 @@
 {{ define "main" }}
 {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+
 <div class = 'wrap pt-2 mt-2'>
+  <div>
+    <h3 class="post_title"> A Digital Gallery that marries Mathematics and the Arts</h3>
+  </div>
   {{- $paginator := .Paginate $pages -}}
   {{- $size := $paginator.PageSize }}
   {{- $scratch := newScratch }}
