@@ -19,7 +19,7 @@ Synthetic polymer paint on thirty-two canvases
 
 ## The 2 Kinds of symbols  
 At some point in your mathematical education, you will reach a point where you have both numbers and letters English and Greek, and nothing is ever the same.
-But some all alphabets are not the same, there are two kinds:  
+But all alphabets are not the same, there are two kinds:  
 •	Variables  
 •	Constants  
 &nbsp;
@@ -85,7 +85,7 @@ A constant is a symbol that has the same meaning everywhere you use it. The word
 &nbsp; 
 
 •	  Firstly, all real numbers are constants : 1, 2, 3, 35.57, √2 etc. are all constants because their value will remain the same.   
-•	   The symbol π is a constant, that always equals 3.1412…  
+•	   The symbol π is a constant, that always equals 3.1415…  
 &nbsp;
 
 Simply put, a constant is a symbol, that many years ago, was given a specific value by someone, and since then has only been used to represent that value.  

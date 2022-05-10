@@ -104,29 +104,6 @@ Once again Euclid Developed a nifty trick to solve the problem.
 
 Let's See how Euclid's Division Algorithm works to fill up the space.
 
-{{< rawhtml >}}
-<div class="center">
-<div
-style="
-    width: 100%;
-    height: 3.5rem;
-    z-index:2;
-    background: var(--bg);
-    color: var(--bg);
-    position: relative;"
-></div>
-<div style="margin-top:-3.5rem;z-index:1;position: relative;">
-<iframe 
-        src="https://editor.p5js.org/lisa-pinto/full/7Ge_aRVU_"
-        style="border-style: none;width: 800px; height: 550px"
-         >
-</iframe>
-</div>
-</div>
-{{< /rawhtml >}}
-
-Let us break down the Process.
-
 Let’s Take The numbers 39 and 15 again
 
 The largest possible tile is 15,  
@@ -174,18 +151,41 @@ There is nothing left so you can fill the remaining space.
 
 <br>Let’s summarize how we found the highest common factor of a and b  
 
-{{< rawhtml >}}
+ {{< rawhtml >}}
 <div class="center">
 <img src="/images/summary.png" style="width:150px;box-shadow:none"><br>
 So the process can be simplified as: <br>
 <img src="/images/formula.png" style="width:150px;box-shadow:none">
 <br> until you reach 0
 </div>
-{{< /rawhtml >}}
+{{< /rawhtml >}} 
 &nbsp;
 
 &nbsp;
-                                
+
+Play Around below to see more break-downs
+
+{{< rawhtml >}}
+<div class="center">
+<div
+style="
+    width: 100%;
+    height: 3.5rem;
+    z-index:2;
+    background: var(--bg);
+    color: var(--bg);
+    position: relative;"
+></div>
+<div style="margin-top:-3.5rem;z-index:1;position: relative;">
+<iframe 
+        src="https://editor.p5js.org/lisa-pinto/full/7Ge_aRVU_"
+        style="border-style: none;width: 800px; height: 550px"
+         >
+</iframe>
+</div>
+</div>
+{{< /rawhtml >}}
+
 
 #### Summary  
 • Every number, when divided by another number will have a quotient and a remainder.  

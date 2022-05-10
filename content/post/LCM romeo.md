@@ -41,7 +41,7 @@ In the above image, you can see that 2, 4, 6 and 8 are all multiples of 2
 ## Prime factors
 
 The prime factors of a number allow you to break a number into its most basic pieces.
-The Fundamental Theory of Arithmetic states that ever number can be broken down into prime numbers and their exponents.  
+The Fundamental Theory of Arithmetic states that every number can be broken down into prime numbers and their exponents.  
 E.g.  
 48 = 2 x 2 x 2 x 2 x 3 = $2^4$  x $3^1$  
 66 = 2 x 3 x 11 = $2^1$ x $3^1$ x $11^1$  
@@ -56,7 +56,7 @@ More about Prime numbers [here](/post/gallery/)
 ## Using Prime factors for a lovers' Tryst  
 Romeo 🤵 visits the Garden every 20 days,  
 And Juliet 💃 visits it every 15 days,  
-On what day will they meet.  
+On what day will they meet? 
 
 **Step 1: Find the prime factors of the two numbers**    
 20 days= 2 x 2 x 5 =  $2^2$  x $5^1$  
