@@ -69,11 +69,22 @@ To understand more, play around with the exercise below
 
 {{< rawhtml >}}
 <div class="center">
+<div
+style="
+    width: 100%;
+    height: 3.5rem;
+    z-index:2;
+    background: var(--bg);
+    color: var(--bg);
+    position: relative;"
+></div>
+<div style="margin-top:-3.5rem;z-index:1;position: relative;">
 <iframe 
         src="https://editor.p5js.org/lisa-pinto/full/W5iBROolh"
         style="border-style: none;width: 800px; height: 450px"
          >
 </iframe>
+</div>
 </div>
 {{< /rawhtml >}}
 &nbsp;
@@ -152,11 +163,22 @@ Play around with the exercise below to find more HCF
 
 {{< rawhtml >}}
 <div class="center">
+<div
+style="
+    width: 100%;
+    height: 3.5rem;
+    z-index:2;
+    background: var(--bg);
+    color: var(--bg);
+    position: relative;"
+></div>
+<div style="margin-top:-3.5rem;z-index:1;position: relative;">
 <iframe 
         src="https://editor.p5js.org/lisa-pinto/full/7Ge_aRVU_"
         style="border-style: none;width: 800px; height: 550px"
          >
 </iframe>
+</div>
 </div>
 {{< /rawhtml >}}
 

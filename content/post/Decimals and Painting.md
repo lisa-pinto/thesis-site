@@ -80,10 +80,21 @@ Let’s see how this works, imagine you are making a painting, and each decimal 
 
 {{< rawhtml >}}
 <div class="center">
+<div
+style="
+    width: 100%;
+    height: 3.5rem;
+    z-index:2;
+    background: var(--bg);
+    color: var(--bg);
+    position: relative;"
+></div>
+<div style="margin-top:-3.5rem;z-index:1;position: relative;">
 <iframe 
         src="https://editor.p5js.org/lisa-pinto/full/v08L_c1BE"
         style="border-style: none;width: 600px; height: 550px;" >
 </iframe>
+</div>
 </div>
 {{< /rawhtml >}}
 

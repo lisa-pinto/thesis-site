@@ -29,15 +29,23 @@ Each a each level you multiply the number 9
 Let's look at how this works  
 
 {{< rawhtml >}}
-<div class="p5js">
   <div class="center">
+  <div
+style="
+    width: 100%;
+    height: 3.5rem;
+    z-index:2;
+    background: var(--bg);
+    color: var(--bg);
+    position: relative;"
+></div>
+<div style="margin-top:-3.5rem;z-index:1;position: relative;">
     <iframe 
         src="https://editor.p5js.org/lisa-pinto/full/FteFLPTUg"
         style="border:none; height:450px; width:600px;" >
 </iframe>
-  </div>
 </div>
-
+</div>
 {{< /rawhtml >}}
 
 This is called an **increasing exponent**  

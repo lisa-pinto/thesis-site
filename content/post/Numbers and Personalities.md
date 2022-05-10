@@ -20,11 +20,22 @@ The Greeks considered arithmetic one of the four Liberal arts of Numbers - along
 
 {{< rawhtml >}}
 <div class="center">
+<div
+style="
+    width: 100%;
+    height: 3.5rem;
+    z-index:2;
+    background: var(--bg);
+    color: var(--bg);
+    position: relative;"
+></div>
+<div style="margin-top:-3.5rem;z-index:1;position: relative;">
 <iframe 
         src="https://editor.p5js.org/lisa-pinto/full/5mNzcssyl"
         style="border-style: none;width: 800px; height: 645px"
         >
 </iframe>
+</div>
 </div>
 {{< /rawhtml >}}
 

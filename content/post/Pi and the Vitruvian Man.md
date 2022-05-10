@@ -52,12 +52,24 @@ So, if the diameter of a circle is 1, the border of a circle is Pi
 Let’s take a look at how pi works using a famous circular piece of work – The Vitruvian man by Leonardo da Vinci.   
 
 {{< rawhtml >}}
-<div class="center">
+<div class='center'>
+<div
+style="
+    width: 100%;
+    height: 3.5rem;
+    z-index:2;
+    background: var(--bg);
+    color: var(--bg);
+    position: relative;"
+></div>
+<div style="margin-top:-3.5rem;z-index:1;position: relative;">
 <iframe 
+        scroll="no"
         src="https://editor.p5js.org/lisa-pinto/full/lFceus3wt"
-        style="border-style: none;width: 600px; height: 445px"
+        style="border-style: none;width: 600px; height: 445px;"
         >
 </iframe>
+</div>
 </div>
 {{< /rawhtml >}}
 
