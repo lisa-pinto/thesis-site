@@ -64,6 +64,7 @@ On what day will they meet.
 
 **Step 2: Put all the factors of both numbers together, and select the ones that are not repeated**    
 $2^2$,  $5^1$, $3^1$,  $5^1$  
+&nbsp;
 $\boxed{2^2}$ ,  $\boxed{5^1}$ , $\boxed{3^1}$ , $5^1$ 
 
 **Step 3: Multiply the Selected factors**   
@@ -77,6 +78,11 @@ Let’s look at how this works visually
 <img src="/images/garden.png" style="width:700px;box-shadow:none">
 </div>
 {{< /rawhtml >}}
+
+$\therefore$ Therefore, the **Lowest Common Multiple** of 20 and 15  is 60.
+&nbsp;
+
+&nbsp;
 
 #### Summary  
 • The LCM of two numbers is the minimum amount that fits both of them.

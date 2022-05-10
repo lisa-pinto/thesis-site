@@ -84,8 +84,8 @@ Just like in the above soup can examples, x looks the same, but means different 
 A constant is a symbol that has the same meaning everywhere you use it. The word “constant”, itself means something that does not change.  
 &nbsp; 
 
-Firstly, all real numbers are constants : 1, 2, 3, 35.57, √2 etc. are all constants because their value will remain the same.  
-The symbol π is a constant, that always equals 3.1412…  
+•	  Firstly, all real numbers are constants : 1, 2, 3, 35.57, √2 etc. are all constants because their value will remain the same.   
+•	   The symbol π is a constant, that always equals 3.1412…  
 &nbsp;
 
 Simply put, a constant is a symbol, that many years ago, was given a specific value by someone, and since then has only been used to represent that value.  

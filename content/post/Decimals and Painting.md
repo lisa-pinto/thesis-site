@@ -51,10 +51,10 @@ But what if the Digits did not repeat?
 &nbsp;
 
 
-## Irrational numbers.
-All irrational numbers have two common properties.
-•	They cannot be represented using a fraction.
-•	They do not have a pattern in their decimal expansions.
+## Irrational numbers.  
+All irrational numbers have two common properties.  
+•	They cannot be represented using a single fraction.  
+•	They do not have a pattern in their decimal expansions.  
 
 Here are some irrational numbers.
 

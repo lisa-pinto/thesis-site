@@ -11,7 +11,7 @@ math: true
 
 
 ## Selected Resources
-On the Intersection of Mathematics, Fine Art, and Humanities
+Books, Articles, and Videos on Math and the Arts.
 
 
 

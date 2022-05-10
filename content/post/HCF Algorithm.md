@@ -59,7 +59,7 @@ Let's make A = 39 and B = 15
 
 Now you have the equation $\longrightarrow$ 39 = 15(2) + 9
  
-This is called Euclid’s Division Lemma, which states that:
+This is called Euclid’s Division Lemma, which states that:  
 ”For every two numbers a and b, there will be a number q (that is the number of times that b fits into a), and r (a little bit left over), so that
 a = b(q) + r
 if b fits perfectly into a, then r will be 0.
@@ -102,64 +102,7 @@ Once again Euclid Developed a nifty trick to solve the problem.
 </div>
 {{< /rawhtml >}}
 
-Let’s Take The numbers 39 and 15 again
-Since 15 is the smaller side, it is the largest possible tile size that can be used. 
-We already know that the biggest possible tile is 15, and you will have 9 remaining.  
-
-{{< rawhtml >}}
-<div class="center">
-<img src="/images/tiles/15.png" style="width:400px;">
-</div>
-{{< /rawhtml >}}
-
-Let’s try to break that remaining piece down. 
-You can, divide the remaining space by 9, but 9 does not fit into 15, so you will still have 6 remaining
-{{< rawhtml >}} 
- <div class="center">
-<img src="/images/tiles/9.png" style="width:400px;">
-</div> 
-{{< /rawhtml >}}
- 
-<br>You can further divide the remaining space by 6, but 6 does not fit into 9, so you will still have 3 remaining
-
- {{< rawhtml >}}
-<div class="center">
-<img src="/images/tiles/6.png" style="width:400px;">
-</div>
-{{< /rawhtml >}}
-
-<br>Finally, if divide the last space by 3, since 3 fits perfectly into 6 you can finally cover the remaining space
-
-{{< rawhtml >}}
-<div class="center">
-<img src="/images/tiles/3.png" style="width:400px;">
-</div>
-{{< /rawhtml >}}
-
-<br>Now that you know that 3 is the largest common factor you can tile the entire floor.  
-
-{{< rawhtml >}}
-<div class="center">
-<img src="/images/allhcf.png" style="width:400px;">
-</div>
-{{< /rawhtml >}}
-
-<br>Let’s summarize how we found the highest common factor of a and b  
-
-{{< rawhtml >}}
-<div class="center">
-<img src="/images/summary.png" style="width:150px;box-shadow:none"><br>
-So the process can be simplified as: <br>
-<img src="/images/formula.png" style="width:150px;box-shadow:none">
-<br> until you reach 0
-</div>
-{{< /rawhtml >}}
-&nbsp;
-
-&nbsp;
-                                
-Play around with the exercise below to find more HCF
-
+Let's See how Euclid's Division Algorithm works to fill up the space.
 
 {{< rawhtml >}}
 <div class="center">
@@ -182,7 +125,68 @@ style="
 </div>
 {{< /rawhtml >}}
 
+Let us break down the Process.
+
+Let’s Take The numbers 39 and 15 again
+
+The largest possible tile is 15,  
+We know that 39 = 15(2) + 9, so you will have 9 remaining.
+
+{{< rawhtml >}}
+<div class="center">
+<img src="/images/tiles/15.png" style="width:400px;">
+</div>
+{{< /rawhtml >}}
+
+Let’s try to break that remaining piece down.   
+15 = 9(1) + 6, so you will still have 6 remaining
+{{< rawhtml >}} 
+ <div class="center">
+<img src="/images/tiles/9.png" style="width:400px;">
+</div> 
+{{< /rawhtml >}}
+ 
+9 = 6(1) + 3, so you will still have 3 remaining.
+
+ {{< rawhtml >}}
+<div class="center">
+<img src="/images/tiles/6.png" style="width:400px;">
+</div>
+{{< /rawhtml >}}
+
+<br>Finally, if divide the last space by 3,  
+6 = 3(2) + 0,  
+There is nothing left so you can fill the remaining space.
+
+{{< rawhtml >}}
+<div class="center">
+<img src="/images/tiles/3.png" style="width:400px;">
+</div>
+{{< /rawhtml >}}
+
+<br>Through this factor, we have concluded that 3 is a factor of both 15 and 39, so you can use it to till the whole floor.  
+
+{{< rawhtml >}}
+<div class="center">
+<img src="/images/allhcf.png" style="width:400px;">
+</div>
+{{< /rawhtml >}}
+
+<br>Let’s summarize how we found the highest common factor of a and b  
+
+{{< rawhtml >}}
+<div class="center">
+<img src="/images/summary.png" style="width:150px;box-shadow:none"><br>
+So the process can be simplified as: <br>
+<img src="/images/formula.png" style="width:150px;box-shadow:none">
+<br> until you reach 0
+</div>
+{{< /rawhtml >}}
+&nbsp;
+
+&nbsp;
+                                
 
 #### Summary  
 • Every number, when divided by another number will have a quotient and a remainder.  
-• If you keep on breaking the remainder down, you will eventually get the smallest factor pf the two numbers.  
+• If you keep on breaking the remainder down, you will eventually get the highest factor pf the two numbers.  
