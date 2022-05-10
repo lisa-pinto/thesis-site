@@ -14,7 +14,6 @@ William Shakespeare c. 1597
 
 &nbsp;
 
-
 ## What are Factors and Multiples
 
 A factor is simply a number that fits into another
@@ -38,6 +37,24 @@ In the above image, you can see that 2, 4, 6 and 8 are all multiples of 2
 
 &nbsp;
 
+
+## The Problem
+Romeo 🤵 visits the Garden every 20 days,  
+And Juliet 💃 visits it every 15 days,  
+On what day will they meet? 
+
+Let's First look at this visually.
+
+{{< rawhtml >}}  
+<div class="center">
+<img src="/images/garden.png" style="width:700px;box-shadow:none">
+</div>
+{{< /rawhtml >}}
+
+Because 60 is the first multiple, of both 15 and 20, it is called the **Lowest common multiple** of the two numbers.
+
+How do you Calculate this?
+
 ## Prime factors
 
 The prime factors of a number allow you to break a number into its most basic pieces.
@@ -47,8 +64,8 @@ E.g.
 66 = 2 x 3 x 11 = $2^1$ x $3^1$ x $11^1$  
 108 = 3 x 3 x 3 x 2 x 2 = $3^3$  x $2^2$  
 
-More about exponents [here](/post/exponents-and-st.-ives)
-More about Prime numbers [here](/post/gallery/)
+More about exponents [here](/post/exponents-and-st.-ives)  
+More about Prime numbers [here](/post/gallery/)  
 &nbsp;
 
 &nbsp;
@@ -73,11 +90,6 @@ $2^2$ x $3^1$ x $5^1$ = $4$ x $3$ x $5$ = $60$ days
 
 Let’s look at how this works visually  
 
-{{< rawhtml >}}  
-<div class="center">
-<img src="/images/garden.png" style="width:700px;box-shadow:none">
-</div>
-{{< /rawhtml >}}
 
 $\therefore$ Therefore, the **Lowest Common Multiple** of 20 and 15  is 60.
 &nbsp;

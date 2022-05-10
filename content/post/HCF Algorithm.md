@@ -153,9 +153,9 @@ There is nothing left so you can fill the remaining space.
 
  {{< rawhtml >}}
 <div class="center">
-<img src="/images/summary.png" style="width:150px;box-shadow:none"><br>
+<img src="/images/nsummary.png" style="width:150px;box-shadow:none"><br>
 So the process can be simplified as: <br>
-<img src="/images/formula.png" style="width:150px;box-shadow:none">
+<img src="/images/nformula.png" style="width:150px;box-shadow:none">
 <br> until you reach 0
 </div>
 {{< /rawhtml >}} 
