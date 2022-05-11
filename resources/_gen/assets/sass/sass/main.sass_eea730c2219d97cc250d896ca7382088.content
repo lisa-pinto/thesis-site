@@ -1081,7 +1081,7 @@ aside h3 {
 .link svg {
   width: 1.5rem;
   height: 1.5rem;
-  fill: var(--theme);
+  fill: var(--bg);
 }
 
 .link_owner:hover .link {
