@@ -16,19 +16,19 @@ William Shakespeare c. 1597
 
 ## What are Factors and Multiples
 
-A factor is simply a number that fits into another
+A factor is simply a number that fits into another one
 {{< rawhtml >}}
 <div class="center">
 <img src="/images/2factors.png" style="width:400px;">
 </div>
 {{< /rawhtml >}}
 
-In the above image, you can see that 2 fits into 6, which means 2 is a factor of 6.
+In the above image, you can see that 2 can be multiplied by 3 to get exactly 6, which means 2 is a factor of 6.
 
 A Multiple, on the other hand is a number that can be produced by multiplying a number.
 {{< rawhtml >}}
 <div class="center">
-<img src="/images/multiples.png" style="width:400px;">
+<img src="/images/multiple.png" style="width:500px;">
 </div>
 {{< /rawhtml >}}
 
@@ -39,15 +39,15 @@ In the above image, you can see that 2, 4, 6 and 8 are all multiples of 2
 
 
 ## The Problem
-Romeo 🤵 visits the Garden every 20 days,  
-And Juliet 💃 visits it every 15 days,  
+Juliet 💃 visits the Garden every 20 days,  
+And Romeo 🤵 visits it every 15 days,  
 On what day will they meet? 
 
 Let's First look at this visually.
 
 {{< rawhtml >}}  
 <div class="center">
-<img src="/images/garden.png" style="width:700px;box-shadow:none">
+<img src="/images/romeo2.png" style="width:700px;box-shadow:none">
 </div>
 {{< /rawhtml >}}
 
