@@ -4,4 +4,4 @@ image: about.jpg
 title: About This Project
 ---
 
-This website is part of the Submission for the 2022 8th Semester Thesis Project ‘Project X’ at Srishti Institute of Art Design and Technology.
+This website is part of the Submission for the 2022 Semester 8 Thesis Project ‘Project X’ at Srishti Institute of Art Design and Technology.
