@@ -12,6 +12,7 @@ html {
   --font: 'Metropolis', sans-serif;
   --theme: rgb(140, 29, 44);
   --ease: cubic-bezier(.19,1,.22,1);
+  --back: url(../images/back.svg);
 }
 
 html[data-mode="dim"] {
@@ -21,6 +22,7 @@ html[data-mode="dim"] {
   --text: var(--light);
   --accent: var(--bubble);
   --theme: rgb(140, 29, 44);
+  --back: url(/images/back2.svg);
 }
 
 html[data-mode="dim"] * {
@@ -43,6 +45,7 @@ html[data-mode="dim"] .color_choice::after {
     --text: var(--light);
     --accent: var(--bubble);
     --theme: rgb(140, 29, 44);
+    --back: url(/images/back2.svg);
   }
   html:not(.nodarkmode):not([data-mode="lit"]) * {
     box-shadow: none !important;
@@ -1376,6 +1379,15 @@ pre {
 
 .subtextx {
   font-size: 2rem;
+}
+
+.logo-img {
+  width: 2rem;
+  height: 2rem;
+}
+
+.logo-img path {
+  fill: #ffffff;
 }
 
 /*# sourceMappingURL=styles.css.map */

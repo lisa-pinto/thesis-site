@@ -4,8 +4,14 @@
       {{- $date := (dateFormat "02. January 2006" .Date) -}}
       <a href="/" target="_self" 
       style="padding-left:0.3rem;z-index:2;position: relative;">
-        <img src="/images/back.svg" style="width: 2rem;
-        height: 2rem; "></a>
+      <picture>
+        <source srcset="/images/back2.svg" media="(prefers-color-scheme: dark)"> 
+        <source srcset="/images/back.svg" media="(prefers-color-scheme: light)"> 
+          <img src="/images/back.svg" style="width: 2rem;
+        height: 2rem;"/>   
+        </picture> 
+      </a>
+      </div>
       <div style="z-index:1;position: relative; margin-top: -4rem;">
       <h2 class="post_title">{{ .Title }}</h2>
       </div>
