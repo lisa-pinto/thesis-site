@@ -189,6 +189,7 @@ style="
 ## Numbers who Shall not be named
 
 
+
 #### Summary  
 • Every number, when divided by another number will have a quotient and a remainder. (for a and b, a = b(q) + r)
 • If you keep on breaking the remainder down, you will eventually get the highest factor of the two numbers.  
