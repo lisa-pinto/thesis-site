@@ -25,7 +25,8 @@ And every Wife had nine Sacks,
 And every Sack had nine Cats  
 And every Cat had nine Kittens"  
 
-Each a each level you multiply the number 9   
+
+At each level you multiply the number 9 again. 
 Let's look at how this works  
 
 {{< rawhtml >}}
@@ -49,12 +50,20 @@ style="
 {{< /rawhtml >}}
 
 This is called an **increasing exponent**  
+&nbsp;
 
 At each level you multiply the exponents by the number nine  
-There were nine wives     $\longrightarrow  9$                 = $9^1$ wives   
-Each wife had nine sacks $ \longrightarrow  9^1$ wives x $9^1$ sacks = $9^{1+1} = 9^2$ total sacks  
-Each sack had nine cats   $\longrightarrow  9^2$ sacks x $9^1$ cats = $9^{2+1} = 9^3$ total cats  
+There were nine wives     $\longrightarrow  9$ = $9^1$ wives
+&nbsp;
+
+Each wife had nine sacks $ \longrightarrow  9^1$ wives x $9^1$ sacks = $9^{1+1} = 9^2$ total sacks
+&nbsp;
+
+Each sack had nine cats   $\longrightarrow  9^2$ sacks x $9^1$ cats = $9^{2+1} = 9^3$ total cats 
+&nbsp;
+
 Each cat had nine kittens $\longrightarrow  9^3$ cats x $9^1$  kittens = $9^{3+1} = 9^4$ total kittens  
+&nbsp;
 
 #### Summary  
 • An exponent shows how many times a number has been multiplied  

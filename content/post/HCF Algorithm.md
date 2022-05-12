@@ -17,7 +17,7 @@ Various locations.
 
 ## Introduction
 
-Many cultures in history have had their own traditional tiling arts  
+Many cultures in history have had their own traditional tiling arts. 
 
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
@@ -27,16 +27,16 @@ Many cultures in history have had their own traditional tiling arts
 </div>
 <div style="padding:5%;justify-content: center;">
 <img src="/images/persian.jpg" style="width:200px;">
-<br>Persian tiles are notable for their intricate geometry
+<br>Persian tiles are notable for their intricate geometry.
 </div>
 <div style="padding:5%;justify-content: center;">
 <img src="/images/pietra.jpg" style="width:200px;">
-<br>Pietra dura was started by the italians but was widely used by the mughals. 
+<br>the Italians pioneered Pietra dura but was adopted by the mughals. 
 </div>
 </div>   
 {{< /rawhtml >}}        
 
-They all have one thing in common: They are based on Patterns of smaller components fitting into a bigger space
+They all have one thing in common: They are based on patterns of smaller components fitting into a bigger space
 &nbsp;
 
 &nbsp;
@@ -45,11 +45,11 @@ They all have one thing in common: They are based on Patterns of smaller compone
 
 If you take a rectangular space, only a certain number of full-sized tiles will be able to fit into it. 
 
-Let’s take Two variables, A and B  
-(A has to be greater or equal to B)  
+Let’s take Two variables, a and b  
+(a has to be greater or equal to b)  
 
-Let's make A = 39 and B = 15  
-15 fits two times into 39, and you still have 9 left over  
+Let's make a = 39 and b = 15  
+15 fits maximum two times into 39 (15 x 2 = 30), and you still have 9 left over  
  
 {{< rawhtml >}}
 <div class="center">
@@ -60,7 +60,7 @@ Let's make A = 39 and B = 15
 Now you have the equation $\longrightarrow$ 39 = 15(2) + 9
  
 This is called Euclid’s Division Lemma, which states that:  
-”For every two numbers a and b, there will be a number q (that is the number of times that b fits into a), and r (a little bit left over), so that
+”For every two numbers a and b, there will be a number q (that is the maximum number of times that b fits into a), and r (a little bit left over), so that
 a = b(q) + r
 if b fits perfectly into a, then r will be 0.
 
@@ -188,5 +188,5 @@ style="
 
 
 #### Summary  
-• Every number, when divided by another number will have a quotient and a remainder.  
-• If you keep on breaking the remainder down, you will eventually get the highest factor pf the two numbers.  
+• Every number, when divided by another number will have a quotient and a remainder. (for a and b, a = b(q) + r)
+• If you keep on breaking the remainder down, you will eventually get the highest factor of the two numbers.  

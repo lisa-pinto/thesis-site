@@ -22,11 +22,11 @@ Imagine two paintings
 <div style="display: flex; width:50%;padding-left:10%;align-items: center; "> 
 <div style="padding:20px">
 <img src="/images/pattern.webp" style="width:370px; ">
-This painting has a repeating pattern and is therefore predictable 
+This painting has a repeating pattern and is therefore predictable. 
 </div>
 <div style="padding:20px">
 <img src="/images/no-pattern.jpg" style="width:400px;">
-This painting has no consistent repetition wich means it is unpredictable
+This painting has no consistent repetition wich means it is unpredictable.
 </div>
 </div>
 {{< /rawhtml >}}
@@ -38,13 +38,15 @@ This painting has no consistent repetition wich means it is unpredictable
 Some decimals are easy to write, because they only have a few numbers after the point.  
 e.g – $\frac{1}{2} = 0.5$     or   $\frac{12}{50} = 0.24$  
    
-Sometime it gets harder and the extension never ends, and the numbers keep repeating.    
+Sometimes it gets harder and the extension never ends, and the numbers keep repeating.    
 e.g.  $\frac{1}{3} = 3.33333…$  or $\frac{87}{37}= 0.243243234…$  
 
 These can also be written using a line over the digits that keep repeating.  
 e.g.  $\frac{1}{3} = 3.\overline{3}$  or $\frac{87}{37}= 0.\overline{243}$  
 
 All of these decimals that end or keep on going with a pattern are rational decimals.
+&nbsp;
+
 But what if the Digits did not repeat?
 &nbsp;
 
@@ -60,8 +62,8 @@ Here are some irrational numbers.
 
 |  Symbol | What is it? | How to write it in numbers |
 |:---------:|:-----------:|:----------------:|
-| $\pi$      | The ratio of a circle's circumference to  its diameter | 3.141... |
-| $\sqrt{2}$ | The diagonal of a square whose side is 1         | 1.414..           |
+| $\pi$      | The ratio of a circle's circumference to its diameter | 3.141... |
+| $\sqrt{2}$ | The ratio of a diagonal of a square to its side         | 1.414..           |
 |  $\phi$  (The golden ratio)      | $1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \ddots}}}}$          |   1.1618...    |
 | e   |   $1 + \frac{1}{1} + \frac{1}{1\cdot 2} + \frac{1}{1\cdot 2\cdot 3} + \cdots.$ |  2.718...  |
 
@@ -74,7 +76,7 @@ Here are some irrational numbers.
 
 ## Generate a Painting from Decimals
 
-The main point of irrational numbers is that their decimal expansions are unpredictable, no lines, no repeated numbers, because there is not long division, you don’t know what will come next.
+The main point of irrational numbers is that their decimal expansions are unpredictable, no lines, no repeated numbers, because there is no way to find it's decimals using simple division, you don’t know what will come next.
 
 Let’s see how this works, imagine you are making a painting, and each decimal number has a different stroke.
 

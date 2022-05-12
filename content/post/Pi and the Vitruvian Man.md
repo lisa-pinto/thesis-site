@@ -20,7 +20,7 @@ Pen and Ink on paper
   
 ## Pi and Us
 
-The symbol Pi may strike fear in the hearts of some people, but its basic function is simple, to calculate the sizes of round things.
+The symbol Pi may strike fear in the hearts of some people, but its basic function is simple, to calculate the sizes of **round things.**
 
 
 {{< rawhtml >}}
@@ -31,7 +31,7 @@ The symbol Pi may strike fear in the hearts of some people, but its basic functi
 </div>
 <div style="padding:5%;justify-content: center;">
 <img src="/images/gps.png" style="width:200px;box-shadow:none">
-<br>Global Positioning System (GPS) uses pi to calculate locations on earth
+<br>Global Positioning System (GPS) uses pi to calculate locations on earth.
 </div>
 <div style="padding:5%;justify-content: center;">
 <img src="/images/pi.png" style="width:200px;">
@@ -40,14 +40,16 @@ The symbol Pi may strike fear in the hearts of some people, but its basic functi
 </div>   
 {{< /rawhtml >}}
 
-Pi describes how long the border (circumference) of a circle is, compared to its height (diameter)
-So, if the diameter of a circle is 1, the border of a circle is Pi  
+Pi describes how long the border (circumference) of a circle is, compared to its height (diameter)  
+This means that if a circle has a diameter of 1, then the  circumference will be pi.
 
 {{< rawhtml >}}
 <div class="center">
 <img src="/images/circle-dem.svg" style="width:250px;box-shadow:none;">
 </div>
 {{< /rawhtml >}}
+
+
 
 Let’s take a look at how pi works using a famous circular piece of work – The Vitruvian man by Leonardo da Vinci.   
 
@@ -77,5 +79,5 @@ Want to learn more about irrational numbers?
 [Painting with Decimals](/post/decimals-and-painting)
 
 #### Summary:  
-• Pi is the ratio of the border of a circle compared to its height
+• Pi is the ratio of the border of a circle compared to its height i.e. $\frac{circumference}{diameter} = \pi$  
 • No matter the size of the circle, the ratio remains the same.  

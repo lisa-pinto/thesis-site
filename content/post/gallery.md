@@ -23,14 +23,14 @@ Books, Articles, and Videos on Math and the Arts.
 <div style="padding:5%;justify-content: center;" >
 <a font-size=14px href="https://www.themarginalian.org/2013/11/29/taschen-oliver-byrne-euclids-elements/">
 <img src="/images/gallery/books.jpg" style="width:200px;">  </a>
-<br> Oliver Byrne's Euclid in Primary colors 
+<br> Euclid in Primary colors by Oliver Byrne 
 <br><a font-size=14px href="https://www.themarginalian.org/2013/11/29/taschen-oliver-byrne-euclids-elements/">The Marginalian</a>
 </div>
 <!-- img 2 -->
 <div style="padding:5%;justify-content: center;">
 <a href="https://www.juxtapoz.com/news/illustration/expressing-abstract-mathematical-concepts-through-art/">
 <img src="/images/gallery/dice.jpg" style="width:200px;">  </a>
-<br>Topologist Anatoly Fomenko expressing abstract Mathematical concepts through art.
+<br>Topologist Anatoly Fomenko expressing abstract Mathematical concepts through Art.
 <br><a href="https://www.juxtapoz.com/news/illustration/expressing-abstract-mathematical-concepts-through-art/">Juxtapoz</a>
 </div>
 <!-- img 3 -->
@@ -55,7 +55,7 @@ Books, Articles, and Videos on Math and the Arts.
 <div style="padding:5%;justify-content: center;">
 <a href="https://www.khanacademy.org/humanities/renaissance-reformation/northern/durer/a/what-is-melencolia">
 <img src="/images/gallery/melancolia.jpg" style="width:200px;"> </a>
-<br>The Magic numbers of Albrecht Durer's Melancolia
+<br>The Magic Numbers of Albrecht Durer's Melancolia
 <br><a href="https://www.khanacademy.org/humanities/renaissance-reformation/northern/durer/a/what-is-melencolia">Khan Academy</a>
 </div>
 <!-- img 6 -->

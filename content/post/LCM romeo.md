@@ -16,7 +16,7 @@ William Shakespeare c. 1597
 
 ## What are Factors and Multiples
 
-A factor is simply a number that fits into another one
+A factor is simply a number that when multiplied, fits perfectly into another number.
 {{< rawhtml >}}
 <div class="center">
 <img src="/images/2factors.png" style="width:400px;">
@@ -56,23 +56,23 @@ Because 60 is the first multiple, of both 15 and 20, it is called the **Lowest c
 How do you Calculate this?
 
 ## Prime factors
-
-The prime factors of a number allow you to break a number into its most basic pieces.
-The Fundamental Theory of Arithmetic states that every number can be broken down into prime numbers and their exponents.  
-E.g.  
-48 = 2 x 2 x 2 x 2 x 3 = $2^4$  x $3^1$  
-66 = 2 x 3 x 11 = $2^1$ x $3^1$ x $11^1$  
-108 = 3 x 3 x 3 x 2 x 2 = $3^3$  x $2^2$  
-
-More about exponents [here](/post/exponents-and-st.-ives)  
 More about Prime numbers [here](/post/gallery/)  
+
+The prime factors of a number allow you to break a number into its most basic pieces.  
+The Fundamental Theory of Arithmetic states that every number can be broken down into prime numbers and their exponents.  (More about exponents [here](/post/exponents-and-st.-ives) )  
+E.g.  
+48 = $2 \times 2 \times 2 \times 2 \times 3$  $\longrightarrow$ $\boxed{2 \times  2 \times  2 \times  2}$ x $\boxed{3}$ = $2^4$  x $3^1$  
+&nbsp;
+
+108 = $3 \times 3 \times 3 \times 2 \times 2$ $\longrightarrow$ $\boxed{32 \times  3 \times  3 }$ x $\boxed{2 \times  2}$ = $3^3$  x $2^2$  
+
 &nbsp;
 
 &nbsp;
 
 ## Using Prime factors for a lovers' Tryst  
-Romeo 🤵 visits the Garden every 20 days,  
-And Juliet 💃 visits it every 15 days,  
+Juliet 💃 visits the Garden every 20 days,  
+And Romeo 🤵 visits it every 15 days,  
 On what day will they meet? 
 
 **Step 1: Find the prime factors of the two numbers**    
@@ -80,15 +80,12 @@ On what day will they meet?
 15 days = 3 x 5 = $3^1$  x $5^1$  
 
 **Step 2: Put all the factors of both numbers together, and select the ones that are not repeated**    
-$2^2$,  $5^1$, $3^1$,  $5^1$  
-&nbsp;
-$\boxed{2^2}$ ,  $\boxed{5^1}$ , $\boxed{3^1}$ , $5^1$ 
+$2^2$,  $5^1$, $3^1$,  $5^1$  $\longrightarrow$ $\boxed{2^2}$ ,  $\boxed{5^1}$ , $\boxed{3^1}$ , $5^1$ 
 
 **Step 3: Multiply the Selected factors**   
-$2^2$ x $3^1$ x $5^1$ = $4$ x $3$ x $5$ = $60$ days  
-
-
-Let’s look at how this works visually  
+$2^2$ x $3^1$ x $5^1$   
+= $4$ x $3$ x $5$  
+= $60$ days  
 
 
 $\therefore$ Therefore, the **Lowest Common Multiple** of 20 and 15  is 60.
@@ -97,7 +94,7 @@ $\therefore$ Therefore, the **Lowest Common Multiple** of 20 and 15  is 60.
 &nbsp;
 
 #### Summary  
-• The LCM of two numbers is the minimum amount that fits both of them.
+• The LCM of two numbers is the minimum amount that both numbers fit into. (Both numbers are factors of the LCM)
 
 
 
