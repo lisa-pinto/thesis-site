@@ -62,7 +62,7 @@ Now you have the equation $\longrightarrow$ 39 = 15(2) + 9
 This is called Euclid’s Division Lemma, which states that:  
 ”For every two numbers a and b, there will be a number q (that is the maximum number of times that b fits into a), and r (a little bit left over), so that
 a = b(q) + r
-if b fits perfectly into a, then r will be 0.
+if b fits perfectly into a, then r will be 0."
 
 
 To understand more, play around with the exercise below
@@ -111,7 +111,7 @@ We know that 39 = 15(2) + 9, so you will have 9 remaining.
 
 {{< rawhtml >}}
 <div class="center">
-<img src="/images/tiles/15_3.png" style="width:500px;">
+<img src="/images/tiles/15_3.png" style="width:400px;">
 </div>
 {{< /rawhtml >}}
 
@@ -186,10 +186,8 @@ style="
 </div>
 {{< /rawhtml >}}
 
-## Numbers who Shall not be named
-
-
 
 #### Summary  
-• Every number, when divided by another number will have a quotient and a remainder. (for a and b, a = b(q) + r)
+• Every number, when divided by another number will have a quotient and a remainder.  
+• The gives the equation a = b(q) + r, for any a and b  
 • If you keep on breaking the remainder down, you will eventually get the highest factor of the two numbers.  

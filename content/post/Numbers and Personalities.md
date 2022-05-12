@@ -14,9 +14,11 @@ c. Ancient Greece
 &nbsp;
 
 
-## The Art of Numbers
+## Magical Numbers
 
-The Greeks considered arithmetic one of the four Liberal arts of Numbers - along with Astronomy, Geometry,  Harmony (Music). Numbers were considered as representatives of a purpose higher than themselves, and were connected to they occurences in nature.
+The Ancient Greeks defined four Numerical Liberal Arts:   
+Arithmetic, Astronomy, Geometry, and Harmony (Music).   
+Numbers were considered as representatives of a purpose higher than themselves, and were connected to their occurences in nature.
 
 {{< rawhtml >}}
 <div class="center">
@@ -35,6 +37,25 @@ style="
         style="border-style: none;width: 800px; height: 645px"
         >
 </iframe>
+</div>
+</div>
+{{< /rawhtml >}}
+
+## Cursed Numbers
+
+We've seen above how 13 is considered an unlucky number by some cultures, Let's look at some more unlucky numbers.
+
+{{< rawhtml >}}
+<div style="display: flex; width:50%;padding-left:10%;align-items: center; ">
+<div style="padding:20px">
+<img src="/images/666.jpg" style="width:400px;">
+<h4>Number of the Beast</h4>
+666 is refered to as 'the number of the beast' in the Book of Revelations in the Bible. 
+</div> 
+<div style="padding:20px">
+<img src="/images/belphegor.jpg" style="width:370px; ">
+<h4>Belphegor's prime</h4>
+1,000,000,000,000,066,600,000,000,000,001 is a number that has several superstitious properties: It can be read the same way backwards and forwards, It has the nummber 666 right in the middle, and it has 13 zeroes on either side.
 </div>
 </div>
 {{< /rawhtml >}}

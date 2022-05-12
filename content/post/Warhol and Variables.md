@@ -116,22 +116,22 @@ Let’s Look at some other famous constants.
 {{< rawhtml >}}
 <div style="display: flex; width:100%;padding-left:5%;align-items: center; ">
 <div style="padding:5%;justify-content: center;">
-<img src="/images/jones.png" style="width:200px;"> 
+<img src="/images/jones2.png" style="width:200px;"> 
 <br> William jones was the first recorded person to use the symbol π for pi 
 </div>
 <div class="padding:5%;justify-content: center;">
-<img src="/images/euler.png" style="width:200px;">
+<img src="/images/euler2.png" style="width:200px;">
 <br>In 1607, Leonard Euler, assigned the letter e to the value 2.7182818284….
 </div>
 <div style="padding:5%; justify-content: center;">
-<img src="/images/gauss.png" style="width:200px;">
+<img src="/images/gauss2.png" style="width:200px;">
 <br>In 1755, Gauss first assigned the letter i to the complex number √-1 
 </div>
 </div>   
 {{< /rawhtml >}}
 
-Learn more about irrational constants [here](/post/decimals-and-painting)
-Learn more about Pi [here](/post/pi-and-the-vitruvian-man)
+Learn more about irrational constants [here](/post/decimals-and-painting)  
+Learn more about Pi [here](/post/pi-and-the-vitruvian-man)  
 
 Because these symbols were set to one value so long ago, whenever they are used in modern mathematics sums, they always have the **same value**, thus, they are **never** used as variables.  
 So whenever you see e, I, φ, π in a sum, they cannot mean anything else.  
