@@ -51,6 +51,7 @@ We can figure out x by looking at y  <br>
 If y= 1, then x = chicken noodle soup  <br>
 If y= 2, then x = cream of vegetable soup,   <br>
 If y= 3, then x = onion soup, and so on  <br>
+Looking at the painting can you guess what soup will be there if y = 5?  (Hint: 🧀)   
 </div>
 <div class="twocolumn">
 <img src="/images/allcans2.jpg" style="width:450px;">
@@ -59,12 +60,33 @@ If y= 3, then x = onion soup, and so on  <br>
 {{< /rawhtml >}}
 
 
+
+    
+Experiment with the slider below tosee how x changes according to y
+
 {{< rawhtml >}}
-<div style="display: flex; width:100%;padding-left:10%;align-items: center; ">
- Looking at the painting can you guess what soup will be there if y = 5?  
- (Hint: 🧀)         
+<div class='center'>
+<div
+style="
+    width: 100%;
+    height: 3.5rem;
+    z-index:2;
+    background: var(--bg);
+    color: var(--bg);
+    position: relative;"
+></div>
+<div style="margin-top:-3.5rem;z-index:1;position: relative;">
+<iframe 
+        scroll="no"
+        src="https://editor.p5js.org/lisa-pinto/full/VMRxw9w1Z"
+        style="border-style: none;width: 800px; height: 445px;"
+        >
+</iframe>
+</div>
 </div>
 {{< /rawhtml >}}
+
+
 
 
 <!-- Now Let’s create a real equation using x  
