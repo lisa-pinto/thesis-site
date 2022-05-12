@@ -53,7 +53,7 @@ Let's make A = 39 and B = 15
  
 {{< rawhtml >}}
 <div class="center">
-<img src="/images/tiles/15.png" style="width:400px;">
+<img src="/images/tiles/15_3.png" style="width:400px;">
 </div>
 {{< /rawhtml >}}
 
@@ -111,7 +111,7 @@ We know that 39 = 15(2) + 9, so you will have 9 remaining.
 
 {{< rawhtml >}}
 <div class="center">
-<img src="/images/tiles/15.png" style="width:400px;">
+<img src="/images/tiles/15_3.png" style="width:500px;">
 </div>
 {{< /rawhtml >}}
 
@@ -119,7 +119,7 @@ Let’s try to break that remaining piece down.
 15 = 9(1) + 6, so you will still have 6 remaining
 {{< rawhtml >}} 
  <div class="center">
-<img src="/images/tiles/9.png" style="width:400px;">
+<img src="/images/tiles/9_3.png" style="width:400px;">
 </div> 
 {{< /rawhtml >}}
  
@@ -127,7 +127,7 @@ Let’s try to break that remaining piece down.
 
  {{< rawhtml >}}
 <div class="center">
-<img src="/images/tiles/6.png" style="width:400px;">
+<img src="/images/tiles/6_3.png" style="width:400px;">
 </div>
 {{< /rawhtml >}}
 
@@ -137,7 +137,7 @@ There is nothing left so you can fill the remaining space.
 
 {{< rawhtml >}}
 <div class="center">
-<img src="/images/tiles/3.png" style="width:400px;">
+<img src="/images/tiles/3_3.png" style="width:400px;">
 </div>
 {{< /rawhtml >}}
 
