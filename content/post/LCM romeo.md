@@ -14,7 +14,7 @@ William Shakespeare c. 1597
 
 &nbsp;
 
-## What are Factors and Multiples
+## What are Factors and Multiples?
 
 A factor is simply a number that when multiplied, fits perfectly into another number.
 {{< rawhtml >}}
@@ -64,7 +64,7 @@ E.g.
 48 = $2 \times 2 \times 2 \times 2 \times 3$  $\longrightarrow$ $\boxed{2 \times  2 \times  2 \times  2}$ x $\boxed{3}$ = $2^4$  x $3^1$  
 &nbsp;
 
-108 = $3 \times 3 \times 3 \times 2 \times 2$ $\longrightarrow$ $\boxed{32 \times  3 \times  3 }$ x $\boxed{2 \times  2}$ = $3^3$  x $2^2$  
+108 = $3 \times 3 \times 3 \times 2 \times 2$ $\longrightarrow$ $\boxed{3 \times  3 \times  3 }$ x $\boxed{2 \times  2}$ = $3^3$  x $2^2$  
 
 &nbsp;
 

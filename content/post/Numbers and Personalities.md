@@ -16,9 +16,9 @@ c. Ancient Greece
 
 ## The Magic Behind Numbers
 
-The Ancient Greeks defined four Numerical Liberal Arts:   
+The Ancient Greeks defined four Liberal Arts of Numbers:   
 Arithmetic, Astronomy, Geometry, and Harmony (Music).   
-Numbers were considered as representatives of a purpose higher than themselves, and were connected to their occurences in nature.
+Numbers were considered as representatives of a purpose higher than themselves, and were connected to their occurences in nature.  
 Let's look at the special characteristics of some numbers:
 
 {{< rawhtml >}}
@@ -44,7 +44,7 @@ style="
 
 ## Cursed Numbers
 
-We've seen above how 13 is considered an unlucky number by some cultures, Let's look at some more unlucky numbers.
+Some number's are unlucky for some, and unlucky for others, but others have very specific inauspicious properties.
 
 {{< rawhtml >}}
 <div style="display: flex; width:50%;padding-left:10%;align-items: center; ">
